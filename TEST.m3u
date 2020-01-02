@@ -95,6 +95,12 @@ http://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_b2592000.m3u8
 #EXTINF:-1 group-title="XXX" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/140.png" tvg-name="Nuart TV",Nuart TV (18+)
 #EXTGRP:XXX
 http://persik.tv/stream/1017/402000/10003.m3u8
+#EXTINF:-1 group-title="XXX",NYX Media 1 (18+)
+#EXTGRP:XXX
+https://cdn1.ibizastream.biz:441/free/1/playlist.m3u8
+#EXTINF:-1 group-title="XXX",NYX Media 2 (18+)
+#EXTGRP:XXX
+https://cdn1.ibizastream.biz:441/free/2/playlist.m3u8
 #EXTINF:-1 group-title="XXX" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/107.png" tvg-name="O-la-la",O-la-la (18+)
 #EXTGRP:XXX
 http://95.191.235.160:1234/udp/225.54.23.160:5000
@@ -179,12 +185,24 @@ http://live.redtraffic.xyz/teen.m3u8
 #EXTINF:-1 group-title="XXX",RedTraffic Threesome (18+)
 #EXTGRP:XXX
 http://cdn.adultiptv.net/threesome.m3u8
+#EXTINF:-1 group-title="XXX",Shemale Tube TV (18+)
+#EXTGRP:XXX
+https://www.ast.tv/stream/1/high.m3u8
+#EXTINF:-1 group-title="XXX",Shemale Tube TV 2 (18+)
+#EXTGRP:XXX
+https://www.ast.tv/stream/2/high.m3u8
 #EXTINF:-1 group-title="XXX",Visit-X TV (18+)
 #EXTGRP:XXX
 http://194.116.150.47:1935/vxtv/live_360p/playlist.m3u8
 #EXTINF:-1 group-title="XXX",VISIT-X TV HD (18+)
 #EXTGRP:XXX
 http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
+#EXTINF:-1 group-title="XXX",Webcam 1 (18+)
+#EXTGRP:XXX
+http://5b33420f79f5f.streamlock.net:1935/freecamssecure/103/playlist.m3u8
+#EXTINF:-1 group-title="XXX",Webcam 2 (18+)
+#EXTGRP:XXX
+http://5b33420f79f5f.streamlock.net:1935/freecamssecure/104/playlist.m3u8
 #EXTINF:-1 group-title="XXX",Xpanded TV (18+)
 #EXTGRP:XXX
 https://vod2t.xxxpanded.com/x3tv/index_wlan.m3u8
