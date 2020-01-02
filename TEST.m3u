@@ -61,8 +61,7 @@ https://5964ed3e60741.streamlock.net/2001edge/2001MS_RTSP.stream/.m3u8
 https://5964ed3e60741.streamlock.net/2001edge/2001DR_RTSP.stream/.m3u8
 #EXTINF:-1,webhalpme.ru/iptv
 #EXTGRP:Взрослые 18+
-https://webhalpme.ru/intro.mp4
-http://stream.euroasia.lfstrm.tv/perviy_evrasia/1/index.m3u8
+
 #EXTINF:-1,Miami TV Colombia HD
 http://23.111.128.190:1935/mexicotv/smil:miamitvmexicoROKU/chunklist_b1896000.m3u8
 #EXTINF:-1,RedTraffic Teen
