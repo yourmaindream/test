@@ -1,66 +1,45 @@
 #EXTM3U
-#EXTINF:-1,1919HD TV 1 (18+)
-#EXTGRP:Взрослые 18+
+#EXTINF:-1,1919HD TV 1
 http://5a2a51fc4cfde.streamlock.net:1935/lfh/_definst_/Stream1/playlist.m3u8
-#EXTINF:-1,1919HD TV 2 (18+)
-#EXTGRP:Взрослые 18+
+#EXTINF:-1,1919HD TV 2
 http://5a2a51fc4cfde.streamlock.net:1935/lfh/_definst_/Stream2/playlist.m3u8
-#EXTINF:-1,1919HD TV 3 (18+)
-#EXTGRP:Взрослые 18+
+#EXTINF:-1,1919HD TV 3
 http://5a2a51fc4cfde.streamlock.net:1935/lfh/_definst_/Stream3/playlist.m3u8
-#EXTINF:-1,2001 LIVE-Веб камера 1 (18+)
-#EXTGRP:Взрослые 18+
+#EXTINF:-1,2001 LIVE-Веб камера 1
 http://5964ed3e60741.streamlock.net:1935/2001edge/2001DR_RTSP.stream/playlist.m3u8
-#EXTINF:-1,2001 LIVE-Веб камера 2 (18+)
-#EXTGRP:Взрослые 18+
+#EXTINF:-1,2001 LIVE-Веб камера 2
 http://5964ed3e60741.streamlock.net:1935/2001edge/2001MS_RTSP.stream/playlist.m3u8
-#EXTINF:-1,Babestation 1 (18+)
-#EXTGRP:Взрослые 18+
+#EXTINF:-1,Babestation 1
 http://ss3.firestormmedia.tv:1935/cellcast2/smil:encoder3.smil/chunklist_b1500000.m3u8
-#EXTINF:-1,Babestation 2 (18+)
-#EXTGRP:Взрослые 18+
+#EXTINF:-1,Babestation 2
 http://ss3.firestormmedia.tv:1935/cellcast2/smil:encoder2.smil/chunklist_b1500000.m3u8
-#EXTINF:-1,Babestation 3 (18+)
-#EXTGRP:Взрослые 18+
+#EXTINF:-1,Babestation 3
 http://ss3.firestormmedia.tv:1935/cellcast2/smil:encoder7.smil/chunklist_b1500000.m3u8
-#EXTINF:-1,Babestation 4 (18+)
-#EXTGRP:Взрослые 18+
+#EXTINF:-1,Babestation 4
 http://ss3.firestormmedia.tv:1935/cellcast2/smil:encoder5.smil/chunklist_b1500000.m3u8
-#EXTINF:-1,Babestation 24 (DE) (18+)
-#EXTGRP:Взрослые 18+
+#EXTINF:-1,Babestation 24 (DE)
 http://de-origin-live.3qsdn.com:1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8
-#EXTINF:-1,Jasmin TV HD (18+)
-#EXTGRP:Взрослые 18+
+#EXTINF:-1,Jasmin TV HD
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1,Miami TV (18+)
-#EXTGRP:Взрослые 18+
+#EXTINF:-1,Miami TV
 http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitvROKU/chunklist_b2592000.m3u8
-#EXTINF:-1,Miami TV Colombia (18+)
-#EXTGRP:Взрослые 18+
+#EXTINF:-1,Miami TV Colombia
 http://59ec5453559f0.streamlock.net:1935/mexicotv/smil:miamitvmexicoROKU/chunklist_b1896000.m3u8
-#EXTINF:-1,Miami TV Espana (18+)
-#EXTGRP:Взрослые 18+
+#EXTINF:-1,Miami TV Espana
 http://59ec5453559f0.streamlock.net:1935/miamitvspain/smil:miamitvspain/chunklist_b1596000.m3u8
-#EXTINF:-1,Miami TV Latino (18+)
-#EXTGRP:Взрослые 18+
+#EXTINF:-1,Miami TV Latino
 http://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_b2592000.m3u8
-#EXTINF:-1,VISIT-X TV HD (18+)
-#EXTGRP:Взрослые 18+
+#EXTINF:-1,VISIT-X TV HD
 http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
-#EXTINF:-1,Xpanded TV (18+)
-#EXTGRP:Взрослые 18+
+#EXTINF:-1,Xpanded TV
 https://vod2t.xxxpanded.com/x3tv/index_wlan.m3u8
-#EXTINF:-1,Xpanded TV 2 (18+)
-#EXTGRP:Взрослые 18+
+#EXTINF:-1,Xpanded TV 2
 https://vod2t.xxxpanded.com/x3tv2/index_wlan.m3u8
 #EXTINF:-1,Camera HD
-#EXTGRP:Взрослые 18+
 https://5964ed3e60741.streamlock.net/2001edge/2001MS_RTSP.stream/.m3u8
 #EXTINF:-1,Camera HD
-#EXTGRP:Взрослые 18+
 https://5964ed3e60741.streamlock.net/2001edge/2001DR_RTSP.stream/.m3u8
 #EXTINF:-1,webhalpme.ru/iptv
-#EXTGRP:Взрослые 18+
 
 #EXTINF:-1,Miami TV Colombia HD
 http://23.111.128.190:1935/mexicotv/smil:miamitvmexicoROKU/chunklist_b1896000.m3u8
