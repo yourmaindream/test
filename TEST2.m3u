@@ -1,629 +1,387 @@
-#EXTM3U
-#EXTINF:-1,辽宁卫视高清
-http://39.134.23.150/PLTV/88888888/224/3221225537/index.m3u8
-#EXTINF:-1,都市剧场HD
-http://39.134.23.150/PLTV/88888888/224/3221225545/index.m3u8
-#EXTINF:-1,重庆卫视
-http://39.134.23.150/PLTV/88888888/224/3221225539/index.m3u8
-#EXTINF:-1,重庆卫视高清
-http://39.134.23.150/PLTV/88888888/224/3221225547/index.m3u8
-#EXTINF:-1,金鹰卡通
-http://39.134.23.150/PLTV/88888888/224/3221225543/index.m3u8
-#EXTINF:-1,陕西卫视
-http://39.134.23.150/PLTV/88888888/224/3221225549/index.m3u8
-#EXTINF:-1,青海卫视
-http://39.134.23.150/PLTV/88888888/224/3221225541/index.m3u8
-#EXTINF:-1,靓妆频道
-http://39.134.23.150/PLTV/88888888/224/3221225577/index.m3u8
-#EXTINF:-1,音像世界
-http://39.134.23.150/PLTV/88888888/224/3221225575/index.m3u8
-#EXTINF:-1,风云剧场
-http://39.134.23.150/PLTV/88888888/224/3221225590/index.m3u8
-#EXTINF:-1,风云足球
-http://39.134.23.150/PLTV/88888888/224/3221225592/index.m3u8
-#EXTINF:-1,风云音乐
-http://39.134.23.150/PLTV/88888888/224/3221225588/index.m3u8
-#EXTINF:-1,高尔夫网球
-http://39.134.23.150/PLTV/88888888/224/3221225591/index.m3u8
-#EXTINF:-1,高尔夫频道
-http://39.134.23.150/PLTV/88888888/224/3221225594/index.m3u8
-#EXTINF:-1,CCTV14
-http://39.134.23.150/PLTV/88888888/224/3221225596/index.m3u8
-#EXTINF:-1,测试频道七
-http://39.134.23.150/PLTV/88888888/224/3221225595/index.m3u8
-#EXTINF:-1,BTV HD
-http://39.134.23.150/PLTV/88888888/224/3221225598/index.m3u8
-#EXTINF:-1,道五
-http://39.134.23.150/PLTV/88888888/224/3221225601/index.m3u8
-#EXTINF:-1,试频道八
-http://39.134.23.150/PLTV/88888888/224/3221225599/index.m3u8
-#EXTINF:-1,魅力音乐
-http://39.134.23.150/PLTV/88888888/224/3221225604/index.m3u8
-#EXTINF:-1,黑龙江卫视
-http://39.134.23.150/PLTV/88888888/224/3221225597/index.m3u8
-#EXTINF:-1,黑龙江
-http://39.134.23.150/PLTV/88888888/224/3221225602/index.m3u8
-#EXTINF:-1,视高清
-http://39.134.23.150/PLTV/88888888/224/3221225608/index.m3u8
-#EXTINF:-1,CCTV6
-http://39.134.23.150/PLTV/88888888/224/3221225611/index.m3u8
-#EXTINF:-1,CCTV13
-http://39.134.23.150/PLTV/88888888/224/3221225612/index.m3u8
-#EXTINF:-1,剧场
-http://39.134.23.150/PLTV/88888888/224/3221225606/index.m3u8
-#EXTINF:-1,视高清
-http://39.134.23.150/PLTV/88888888/224/3221225610/index.m3u8
-#EXTINF:-1,西卫视
-http://39.134.23.150/PLTV/88888888/224/3221225615/index.m3u8
-#EXTINF:-1,CCTV
-http://39.134.23.150/PLTV/88888888/224/3221225617/index.m3u8
-#EXTINF:-1,青海卫视
-http://39.134.23.150/PLTV/88888888/224/3221225616/index.m3u8
-#EXTINF:-1,三沙卫视
-http://39.134.23.150/PLTV/88888888/224/3221225618/index.m3u8
-#EXTINF:-1,世界地理
-http://39.134.23.150/PLTV/88888888/224/3221225622/index.m3u8
-#EXTINF:-1,东南卫视
-http://39.134.23.150/PLTV/88888888/224/3221225614/index.m3u8
-#EXTINF:-1,中国交
-http://39.134.23.150/PLTV/88888888/224/3221225628/index.m3u8
-#EXTINF:-1,CCTV3
-http://39.134.23.150/PLTV/88888888/224/3221225630/index.m3u8
-#EXTINF:-1,CCTV9
-http://39.134.23.150/PLTV/88888888/224/3221225619/index.m3u8
-#EXTINF:-1,NNTV
-http://39.134.23.150/PLTV/88888888/224/3221225626/index.m3u8
-#EXTINF:-1,通频道
-http://39.134.23.150/PLTV/88888888/224/3221225632/index.m3u8
-#EXTINF:-1,CCTV15
-http://39.134.23.150/PLTV/88888888/224/3221225636/index.m3u8
-#EXTINF:-1,中山台
-http://39.134.23.150/PLTV/88888888/224/3221225640/index.m3u8
-#EXTINF:-1,书画频道
-http://39.134.23.150/PLTV/88888888/224/3221225638/index.m3u8
-#EXTINF:-1,云南卫视
-http://39.134.23.150/PLTV/88888888/224/3221225644/index.m3u8
-#EXTINF:-1,CCTV13
-http://39.134.23.150/PLTV/88888888/224/3221225650/index.m3u8
-#EXTINF:-1,BTV
-http://39.134.23.150/PLTV/88888888/224/3221225646/index.m3u8
-#EXTINF:-1,交通文艺
-http://39.134.23.150/PLTV/88888888/224/3221225642/index.m3u8
-#EXTINF:-1,人物频道
-http://39.134.23.150/PLTV/88888888/224/3221225648/index.m3u8
-#EXTINF:-1,广东体育
-http://39.134.23.150/PLTV/88888888/224/3221225654/index.m3u8
-#EXTINF:-1,CCTV1
-http://39.134.23.150/PLTV/88888888/224/3221225652/index.m3u8
-#EXTINF:-1,山东卫视
-http://39.134.23.150/PLTV/88888888/224/3221225660/index.m3u8
-#EXTINF:-1,CCTV14
-http://39.134.23.150/PLTV/88888888/224/3221225658/index.m3u8
-#EXTINF:-1,CCTV5
-http://39.134.23.150/PLTV/88888888/224/3221225641/index.m3u8
-#EXTINF:-1,CCTV8
-http://39.134.23.150/PLTV/88888888/224/3221225666/index.m3u8
-#EXTINF:-1,靓妆频道
-http://39.134.23.150/PLTV/88888888/224/3221225664/index.m3u8
-#EXTINF:-1,CCTV4
-http://39.134.23.150/PLTV/88888888/224/3221225662/index.m3u8
-#EXTINF:-1,音像世界
-http://39.134.23.150/PLTV/88888888/224/3221225670/index.m3u8
-#EXTINF:-1,风云剧场
-http://39.134.23.150/PLTV/88888888/224/3221225674/index.m3u8
-#EXTINF:-1,CCTV9
-http://39.134.23.150/PLTV/88888888/224/3221225672/index.m3u8
-#EXTINF:-1,风云足球
-http://39.134.23.150/PLTV/88888888/224/3221225676/index.m3u8
-#EXTINF:-1,风云音乐
-http://39.134.23.150/PLTV/88888888/224/3221225680/index.m3u8
-#EXTINF:-1,高尔夫网球
-http://39.134.23.150/PLTV/88888888/224/3221225682/index.m3u8
-#EXTINF:-1,CCTV1
-http://39.134.23.150/PLTV/88888888/224/3221225684/index.m3u8
-#EXTINF:-1,CCTV2
-http://39.134.23.150/PLTV/88888888/224/3221225686/index.m3u8
-#EXTINF:-1,魅力音乐
-http://39.134.23.150/PLTV/88888888/224/3221225692/index.m3u8
-#EXTINF:-1,黑龙江卫视
-http://39.134.23.150/PLTV/88888888/224/3221225698/index.m3u8
-#EXTINF:-1,JO TV
-http://39.134.23.150/PLTV/88888888/224/3221225690/index.m3u8
-#EXTINF:-1,视高清
-http://39.134.23.150/PLTV/88888888/224/3221225696/index.m3u8
-#EXTINF:-1,CCTV12
-http://39.134.23.150/PLTV/88888888/224/3221225702/index.m3u8
-#EXTINF:-1,龙江卫
-http://39.134.23.150/PLTV/88888888/224/3221225694/index.m3u8
-#EXTINF:-1,CETV1
-http://39.134.23.150/PLTV/88888888/224/3221225706/index.m3u8
-#EXTINF:-1,CCTV6
-http://39.134.23.150/PLTV/88888888/224/3221225708/index.m3u8
-#EXTINF:-1,CETV2
-http://39.134.23.150/PLTV/88888888/224/3221225710/index.m3u8
-#EXTINF:-1,东南卫视
-http://39.134.23.150/PLTV/88888888/224/3221225704/index.m3u8
-#EXTINF:-1,卫视高清
-http://39.134.23.150/PLTV/88888888/224/3221225712/index.m3u8
-#EXTINF:-1,中华美食
-http://39.134.23.150/PLTV/88888888/224/3221225714/index.m3u8
-#EXTINF:-1,交通频道
-http://39.134.23.150/PLTV/88888888/224/3221225716/index.m3u8
-#EXTINF:-1,书画频道
-http://39.134.23.150/PLTV/88888888/224/3221225722/index.m3u8
-#EXTINF:-1,CETV5
-http://39.134.23.150/PLTV/88888888/224/3221225718/index.m3u8
-#EXTINF:-1,BTV HD
-http://39.134.23.150/PLTV/88888888/224/3221225724/index.m3u8
-#EXTINF:-1,云南卫视
-http://39.134.23.150/PLTV/88888888/224/3221225726/index.m3u8
-#EXTINF:-1,交通文艺
-http://39.134.23.150/PLTV/88888888/224/3221225730/index.m3u8
-#EXTINF:-1,人物频道
-http://39.134.23.150/PLTV/88888888/224/3221225734/index.m3u8
-#EXTINF:-1,CGTN
-http://39.134.23.150/PLTV/88888888/224/3221225736/index.m3u8
-#EXTINF:-1,优优宝贝
-http://39.134.23.150/PLTV/88888888/224/3221225738/index.m3u8
-#EXTINF:-1,NNTV
-http://39.134.23.150/PLTV/88888888/224/3221225742/index.m3u8
-#EXTINF:-1,BTV HD
-http://39.134.23.150/PLTV/88888888/224/3221225735/index.m3u8
-#EXTINF:-1,佛山台
-http://39.134.23.150/PLTV/88888888/224/3221225748/index.m3u8
-#EXTINF:-1,先锋乒羽
-http://39.134.23.150/PLTV/88888888/224/3221225750/index.m3u8
-#EXTINF:-1,全纪实HD
-http://39.134.23.150/PLTV/88888888/224/3221225744/index.m3u8
-#EXTINF:-1,CCTV5
-http://39.134.23.150/PLTV/88888888/224/3221225758/index.m3u8
-#EXTINF:-1,NewTV HD
-http://39.134.23.150/PLTV/88888888/224/3221225752/index.m3u8
-#EXTINF:-1,兵团卫视
-http://39.134.23.150/PLTV/88888888/224/3221225762/index.m3u8
-#EXTINF:-1,CCTV1
-http://39.134.23.150/PLTV/88888888/224/3221225759/index.m3u8
-#EXTINF:-1,SCTV
-http://39.134.23.150/PLTV/88888888/224/3221225765/index.m3u8
-#EXTINF:-1,BTV HD
-http://39.134.23.150/PLTV/88888888/224/3221225760/index.m3u8
-#EXTINF:-1,内蒙古卫视
-http://39.134.23.150/PLTV/88888888/224/3221225763/index.m3u8
-#EXTINF:-1,凤凰卫视
-http://39.134.23.150/PLTV/88888888/224/3221225764/index.m3u8
-#EXTINF:-1,广东体育
-http://39.134.23.150/PLTV/88888888/224/3221225772/index.m3u8
-#EXTINF:-1,体育高
-http://39.134.23.150/PLTV/88888888/224/3221225767/index.m3u8
-#EXTINF:-1,广东公共
-http://39.134.23.150/PLTV/88888888/224/3221225771/index.m3u8
-#EXTINF:-1,CCTV11
-http://39.134.23.150/PLTV/88888888/224/3221225774/index.m3u8
-#EXTINF:-1,NewTV HD
-http://39.134.23.150/PLTV/88888888/224/3221225766/index.m3u8
-#EXTINF:-1,CCTV7
-http://39.134.23.150/PLTV/88888888/224/3221225768/index.m3u8
-#EXTINF:-1,OHTV1
-http://39.134.23.150/PLTV/88888888/224/3221225769/index.m3u8
-#EXTINF:-1,OHTV1
-http://39.134.23.150/PLTV/88888888/224/3221225773/index.m3u8
-#EXTINF:-1,广东卫视
-http://39.134.23.150/PLTV/88888888/224/3221225778/index.m3u8
-#EXTINF:-1,CCTV10
-http://39.134.23.150/PLTV/88888888/224/3221225782/index.m3u8
-#EXTINF:-1,HNV1
-http://39.134.23.150/PLTV/88888888/224/3221225779/index.m3u8
-#EXTINF:-1,CBN
-http://39.134.23.150/PLTV/88888888/224/3221225785/index.m3u8
-#EXTINF:-1,广东珠江
-http://39.134.23.150/PLTV/88888888/224/3221225781/index.m3u8
-#EXTINF:-1,CCTV13
-http://39.134.23.150/PLTV/88888888/224/3221225780/index.m3u8
-#EXTINF:-1,广西卫视
-http://39.134.23.150/PLTV/88888888/224/3221225777/index.m3u8
-#EXTINF:-1,延边卫视
-http://39.134.23.150/PLTV/88888888/224/3221225787/index.m3u8
-#EXTINF:-1,江西卫视
-http://39.134.23.150/PLTV/88888888/224/3221225788/index.m3u8
-#EXTINF:-1,CCTV2
-http://39.134.23.150/PLTV/88888888/224/3221225776/index.m3u8
-#EXTINF:-1,河北卫视
-http://39.134.23.150/PLTV/88888888/224/3221225775/index.m3u8
-#EXTINF:-1,浙江卫视
-http://39.134.23.150/PLTV/88888888/224/3221225790/index.m3u8
-#EXTINF:-1,湖南卫视
-http://39.134.23.150/PLTV/88888888/224/3221225796/index.m3u8
-#EXTINF:-1,CCTV14
-http://39.134.23.150/PLTV/88888888/224/3221225794/index.m3u8
-#EXTINF:-1,CCTV1
-http://39.134.23.150/PLTV/88888888/224/3221225792/index.m3u8
-#EXTINF:-1,甘肃卫视
-http://39.134.23.150/PLTV/88888888/224/3221225802/index.m3u8
-#EXTINF:-1,生活时尚
-http://39.134.23.150/PLTV/88888888/224/3221225804/index.m3u8
-#EXTINF:-1,电视指南
-http://39.134.23.150/PLTV/88888888/224/3221225808/index.m3u8
-#EXTINF:-1,N/A
-http://39.134.23.150/PLTV/88888888/224/3221225789/index.m3u8
-#EXTINF:-1,第一剧场
-http://39.134.23.150/PLTV/88888888/224/3221225812/index.m3u8
-#EXTINF:-1,精彩影视
-http://39.134.23.150/PLTV/88888888/224/3221225805/index.m3u8
-#EXTINF:-1,网络棋牌
-http://39.134.23.150/PLTV/88888888/224/3221225815/index.m3u8
-#EXTINF:-1,CCTV15
-http://39.134.23.150/PLTV/88888888/224/3221225810/index.m3u8
-#EXTINF:-1,CCTV4
-http://39.134.23.150/PLTV/88888888/224/3221225814/index.m3u8
-#EXTINF:-1,CCTV9
-http://39.134.23.150/PLTV/88888888/224/3221225816/index.m3u8
-#EXTINF:-1,CCTV14
-http://39.134.23.150/PLTV/88888888/224/3221225820/index.m3u8
-#EXTINF:-1,翡翠台
-http://39.134.23.150/PLTV/88888888/224/3221225824/index.m3u8
-#EXTINF:-1,老故事
-http://39.134.23.150/PLTV/88888888/224/3221225811/index.m3u8
-#EXTINF:-1,老故事
-http://39.134.23.150/PLTV/88888888/224/3221225807/index.m3u8
-#EXTINF:-1,CCTV8
-http://39.134.23.150/PLTV/88888888/224/3221225817/index.m3u8
-#EXTINF:-1,CCTV11
-http://39.134.23.150/PLTV/88888888/224/3221225825/index.m3u8
-#EXTINF:-1,西藏卫视
-http://39.134.23.150/PLTV/88888888/224/3221225809/index.m3u8
-#EXTINF:-1,CCTV10
-http://39.134.23.150/PLTV/88888888/224/3221225823/index.m3u8
-#EXTINF:-1,CCTV13
-http://39.134.23.150/PLTV/88888888/224/3221225827/index.m3u8
-#EXTINF:-1,CGTN
-http://39.134.23.150/PLTV/88888888/224/3221225836/index.m3u8
-#EXTINF:-1,财富天下
-http://39.134.23.150/PLTV/88888888/224/3221225828/index.m3u8
-#EXTINF:-1,贵州卫视
-http://39.134.23.150/PLTV/88888888/224/3221225832/index.m3u8
-#EXTINF:-1,州卫视
-http://39.134.23.150/PLTV/88888888/224/3221225834/index.m3u8
-#EXTINF:-1,足球频道
-http://39.134.23.150/PLTV/88888888/224/3221225838/index.m3u8
-#EXTINF:-1,CCTV2
-http://39.134.23.150/PLTV/88888888/224/3221225831/index.m3u8
-#EXTINF:-1,辽宁卫视
-http://39.134.23.150/PLTV/88888888/224/3221225842/index.m3u8
-#EXTINF:-1,辽宁卫视
-http://39.134.23.150/PLTV/88888888/224/3221225835/index.m3u8
-#EXTINF:-1,BTV HD
-http://39.134.23.150/PLTV/88888888/224/3221225833/index.m3u8
-#EXTINF:-1,高清辽
-http://39.134.23.150/PLTV/88888888/224/3221225844/index.m3u8
-#EXTINF:-1,都市剧
-http://39.134.23.150/PLTV/88888888/224/3221225837/index.m3u8
-#EXTINF:-1,重庆卫
-http://39.134.23.150/PLTV/88888888/224/3221225849/index.m3u8
-#EXTINF:-1,金鹰卡通
-http://39.134.23.150/PLTV/88888888/224/3221225851/index.m3u8
-#EXTINF:-1,陕西卫视
-http://39.134.23.150/PLTV/88888888/224/3221225845/index.m3u8
-#EXTINF:-1,NewTV HD
-http://39.134.23.150/PLTV/88888888/224/3221225848/index.m3u8
-#EXTINF:-1,青海卫视
-http://39.134.23.150/PLTV/88888888/224/3221225856/index.m3u8
-#EXTINF:-1,靓妆频道
-http://39.134.23.150/PLTV/88888888/224/3221225852/index.m3u8
-#EXTINF:-1,XZTV
-http://39.134.23.150/PLTV/88888888/224/3221225858/index.m3u8
-#EXTINF:-1,NewTV HD
-http://39.134.23.150/PLTV/88888888/224/3221225854/index.m3u8
-#EXTINF:-1,CCTV9
-http://39.134.23.150/PLTV/88888888/224/3221225855/index.m3u8
-#EXTINF:-1,NewTV HD
-http://39.134.23.150/PLTV/88888888/224/3221225860/index.m3u8
-#EXTINF:-1,音像世界
-http://39.134.23.150/PLTV/88888888/224/3221225861/index.m3u8
-#EXTINF:-1,CCTV14
-http://39.134.23.150/PLTV/88888888/224/3221225857/index.m3u8
-#EXTINF:-1,CCTV17
-http://39.134.23.150/PLTV/88888888/224/3221225859/index.m3u8
-#EXTINF:-1,风云剧场
-http://39.134.23.150/PLTV/88888888/224/3221225863/index.m3u8
-#EXTINF:-1,风云足球
-http://39.134.23.150/PLTV/88888888/224/3221225865/index.m3u8
-#EXTINF:-1,CETV1
-http://39.134.23.150/PLTV/88888888/224/3221225866/index.m3u8
-#EXTINF:-1,高尔夫网球
-http://39.134.23.150/PLTV/88888888/224/3221225864/index.m3u8
-#EXTINF:-1,黑龙江卫视
-http://39.134.23.150/PLTV/88888888/224/3221225867/index.m3u8
-#EXTINF:-1,视高清
-http://39.134.23.150/PLTV/88888888/224/3221225868/index.m3u8
-#EXTINF:-1,世界地理
-http://39.134.23.150/PLTV/88888888/224/3221225870/index.m3u8
-#EXTINF:-1,TVS2
-http://39.134.23.150/PLTV/88888888/224/3221225871/index.m3u8
-#EXTINF:-1,东南卫视
-http://39.134.23.150/PLTV/88888888/224/3221225869/index.m3u8
-#EXTINF:-1,CETV4
-http://39.134.23.150/PLTV/88888888/224/3221225873/index.m3u8
-#EXTINF:-1,东方卫视
-http://39.134.23.150/PLTV/88888888/224/3221225872/index.m3u8
-#EXTINF:-1,卫视高清
-http://39.134.23.150/PLTV/88888888/224/3221225875/index.m3u8
-#EXTINF:-1,中华美食
-http://39.134.23.150/PLTV/88888888/224/3221225880/index.m3u8
-#EXTINF:-1,交通
-http://39.134.23.150/PLTV/88888888/224/3221225877/index.m3u8
-#EXTINF:-1,CCTV
-http://39.134.23.150/PLTV/88888888/224/3221225879/index.m3u8
-#EXTINF:-1,CCTV
-http://39.134.23.150/PLTV/88888888/224/3221225881/index.m3u8
-#EXTINF:-1,频道
-http://39.134.23.150/PLTV/88888888/224/3221225883/index.m3u8
-#EXTINF:-1,中山台
-http://39.134.23.150/PLTV/88888888/224/3221225874/index.m3u8
-#EXTINF:-1,书画频道
-http://39.134.23.150/PLTV/88888888/224/3221225882/index.m3u8
-#EXTINF:-1,云南卫视
-http://39.134.23.150/PLTV/88888888/224/3221225887/index.m3u8
-#EXTINF:-1,交通文艺
-http://39.134.23.150/PLTV/88888888/224/3221225886/index.m3u8
-#EXTINF:-1,SDETV
-http://39.134.23.150/PLTV/88888888/224/3221225885/index.m3u8
-#EXTINF:-1,ICS
-http://39.134.23.150/PLTV/88888888/224/3221225888/index.m3u8
-#EXTINF:-1,人物频道
-http://39.134.23.150/PLTV/88888888/224/3221225884/index.m3u8
-#EXTINF:-1,车迷频道
-http://39.134.23.150/PLTV/88888888/224/3221225876/index.m3u8
-#EXTINF:-1,CGTN
-http://39.134.23.150/PLTV/88888888/224/3221225889/index.m3u8
-#EXTINF:-1,NewTV HD
-http://39.134.23.150/PLTV/88888888/224/3221225894/index.m3u8
-#EXTINF:-1,金鹰卡通
-http://39.134.23.150/PLTV/88888888/224/3221225895/index.m3u8
-#EXTINF:-1,邮轮旅游
-http://39.134.23.150/PLTV/88888888/224/3221225893/index.m3u8
-#EXTINF:-1,NewTV HD
-http://39.134.23.150/PLTV/88888888/224/3221225902/index.m3u8
-#EXTINF:-1,音像世界
-http://39.134.23.150/PLTV/88888888/224/3221225891/index.m3u8
-#EXTINF:-1,NewTV HD
-http://39.134.23.150/PLTV/88888888/224/3221225892/index.m3u8
-#EXTINF:-1,马赛克
-http://39.134.23.150/PLTV/88888888/224/3221225901/index.m3u8
-#EXTINF:-1,NewTV HD
-http://39.134.23.150/PLTV/88888888/224/3221225900/index.m3u8
-#EXTINF:-1,HNV1
-http://39.134.23.150/PLTV/88888888/224/3221225906/index.m3u8
-#EXTINF:-1,高尔夫网球
-http://39.134.23.150/PLTV/88888888/224/3221225897/index.m3u8
-#EXTINF:-1,广东音乐
-http://39.134.23.150/PLTV/88888888/224/3221225903/index.m3u8
-#EXTINF:-1,快乐宠物
-http://39.134.23.150/PLTV/88888888/224/3221225907/index.m3u8
-#EXTINF:-1,揭阳综合
-http://39.134.23.150/PLTV/88888888/224/3221225905/index.m3u8
-#EXTINF:-1,BTV
-http://39.134.23.150/PLTV/88888888/224/3221225899/index.m3u8
-#EXTINF:-1,电子体育
-http://39.134.23.150/PLTV/88888888/224/3221225913/index.m3u8
-#EXTINF:-1,百姓健康
-http://39.134.23.150/PLTV/88888888/224/3221225911/index.m3u8
-#EXTINF:-1,经济之声
-http://39.134.23.150/PLTV/88888888/224/3221225916/index.m3u8
-#EXTINF:-1,网络棋牌
-http://39.134.23.150/PLTV/88888888/224/3221225915/index.m3u8
-#EXTINF:-1,美食天
-http://39.134.23.150/PLTV/88888888/224/3221225909/index.m3u8
-#EXTINF:-1,CCTV11
-http://39.134.23.150/PLTV/88888888/224/3221225914/index.m3u8
-#EXTINF:-1,CCTV2
-http://39.134.23.150/PLTV/88888888/224/3221225920/index.m3u8
-#EXTINF:-1,考试在线
-http://39.134.23.150/PLTV/88888888/224/3221225912/index.m3u8
-#EXTINF:-1,CETV1
-http://39.134.23.150/PLTV/88888888/224/3221225924/index.m3u8
-#EXTINF:-1,西藏卫视
-http://39.134.23.150/PLTV/88888888/224/3221225926/index.m3u8
-#EXTINF:-1,NewTV HD
-http://39.134.23.150/PLTV/88888888/224/3221225923/index.m3u8
-#EXTINF:-1,足球
-http://39.134.23.150/PLTV/88888888/224/3221225930/index.m3u8
-#EXTINF:-1,CCTV14
-http://39.134.23.150/PLTV/88888888/224/3221225917/index.m3u8
-#EXTINF:-1,CCTV10
-http://39.134.23.150/PLTV/88888888/224/3221225919/index.m3u8
-#EXTINF:-1,NewTV HD
-http://39.134.23.150/PLTV/88888888/224/3221225925/index.m3u8
-#EXTINF:-1,CNTV HD
-http://39.134.23.150/PLTV/88888888/224/3221225927/index.m3u8
-#EXTINF:-1,车迷频道
-http://39.134.23.150/PLTV/88888888/224/3221225936/index.m3u8
-#EXTINF:-1,HNV1
-http://39.134.23.150/PLTV/88888888/224/3221225929/index.m3u8
-#EXTINF:-1,CCTV9
-http://39.134.23.150/PLTV/88888888/224/3221225921/index.m3u8
-#EXTINF:-1,邮轮旅游
-http://39.134.23.150/PLTV/88888888/224/3221225933/index.m3u8
-#EXTINF:-1,高尔夫
-http://39.134.23.150/PLTV/88888888/224/3221225940/index.m3u8
-#EXTINF:-1,清演示
-http://39.134.23.150/PLTV/88888888/224/3221225932/index.m3u8
-#EXTINF:-1,黑龙江
-http://39.134.23.150/PLTV/88888888/224/3221225931/index.m3u8
-#EXTINF:-1,卡酷少儿
-http://39.134.23.150/PLTV/88888888/224/3221225942/index.m3u8
-#EXTINF:-1,动作电影
-http://39.134.23.150/PLTV/88888888/224/3221225941/index.m3u8
-#EXTINF:-1,BTV HD
-http://39.134.23.150/PLTV/88888888/224/3221225937/index.m3u8
-#EXTINF:-1,家庭影院
-http://39.134.23.150/PLTV/88888888/224/3221225943/index.m3u8
-#EXTINF:-1,XZTV
-http://39.134.23.150/PLTV/88888888/224/3221225945/index.m3u8
-#EXTINF:-1,世界地理
-http://39.134.23.150/PLTV/88888888/224/3221225946/index.m3u8
-#EXTINF:-1,CCTV15
-http://39.134.23.150/PLTV/88888888/224/3221225948/index.m3u8
-#EXTINF:-1,东南卫视
-http://39.134.23.150/PLTV/88888888/224/3221225935/index.m3u8
-#EXTINF:-1,XZTV
-http://39.134.23.150/PLTV/88888888/224/3221225952/index.m3u8
-#EXTINF:-1,Baby Talent HD
-http://39.134.23.150/PLTV/88888888/224/3221225950/index.m3u8
-#EXTINF:-1,CCTV17
-http://39.134.23.150/PLTV/88888888/224/3221225939/index.m3u8
-#EXTINF:-1,东方卫视
-http://39.134.23.150/PLTV/88888888/224/3221225949/index.m3u8
-#EXTINF:-1,NewTV HD
-http://39.134.23.150/PLTV/88888888/224/3221225951/index.m3u8
-#EXTINF:-1,方卫视高清
-http://39.134.23.150/PLTV/88888888/224/3221225958/index.m3u8
-#EXTINF:-1,CiTV HD
-http://39.134.23.150/PLTV/88888888/224/3221225960/index.m3u8
-#EXTINF:-1,BTV HD
-http://39.134.23.150/PLTV/88888888/224/3221225954/index.m3u8
-#EXTINF:-1,中华美食
-http://39.134.23.150/PLTV/88888888/224/3221225964/index.m3u8
-#EXTINF:-1,中国交通频道
-http://39.134.23.150/PLTV/88888888/224/3221225956/index.m3u8
-#EXTINF:-1,MYLT TV HD
-http://39.134.23.150/PLTV/88888888/224/3221225966/index.m3u8
-#EXTINF:-1,CCTV12
-http://39.134.23.150/PLTV/88888888/224/3221225962/index.m3u8
-#EXTINF:-1,书画频道
-http://39.134.23.150/PLTV/88888888/224/3221225968/index.m3u8
-#EXTINF:-1,云南卫视
-http://39.134.23.150/PLTV/88888888/224/3221225970/index.m3u8
-#EXTINF:-1,BTV HD
-http://39.134.23.150/PLTV/88888888/224/3221225947/index.m3u8
-#EXTINF:-1,Baby Talent HD
-http://39.134.23.150/PLTV/88888888/224/3221225972/index.m3u8
-#EXTINF:-1,OHTV1
-http://39.134.23.150/PLTV/88888888/224/3221225978/index.m3u8
-#EXTINF:-1,交通文艺
-http://39.134.23.150/PLTV/88888888/224/3221225980/index.m3u8
-#EXTINF:-1,物频道
-http://39.134.23.150/PLTV/88888888/224/3221225974/index.m3u8
-#EXTINF:-1,优优宝贝
-http://39.134.23.150/PLTV/88888888/224/3221225982/index.m3u8
-#EXTINF:-1,佛山台
-http://39.134.23.150/PLTV/88888888/224/3221225990/index.m3u8
-#EXTINF:-1,先锋乒羽
-http://39.134.23.150/PLTV/88888888/224/3221225986/index.m3u8
-#EXTINF:-1,全纪实
-http://39.134.23.150/PLTV/88888888/224/3221225992/index.m3u8
-#EXTINF:-1,BTV HD
-http://39.134.23.150/PLTV/88888888/224/3221225984/index.m3u8
-#EXTINF:-1,NNTV
-http://39.134.23.150/PLTV/88888888/224/3221225996/index.m3u8
-#EXTINF:-1,兵团卫视
-http://39.134.23.150/PLTV/88888888/224/3221225998/index.m3u8
-#EXTINF:-1,内蒙古卫视
-http://39.134.23.150/PLTV/88888888/224/3221226002/index.m3u8
-#EXTINF:-1,凤凰卫视
-http://39.134.23.150/PLTV/88888888/224/3221226006/index.m3u8
-#EXTINF:-1,CCTV7
-http://39.134.23.150/PLTV/88888888/224/3221226010/index.m3u8
-#EXTINF:-1,CCTV10
-http://39.134.23.150/PLTV/88888888/224/3221226014/index.m3u8
-#EXTINF:-1,动漫秀场
-http://39.134.23.150/PLTV/88888888/224/3221226008/index.m3u8
-#EXTINF:-1,CCTV
-http://39.134.23.150/PLTV/88888888/224/3221226020/index.m3u8
-#EXTINF:-1,CCTV4
-http://39.134.23.150/PLTV/88888888/224/3221226012/index.m3u8
-#EXTINF:-1,北京卫视
-http://39.134.23.150/PLTV/88888888/224/3221226016/index.m3u8
-#EXTINF:-1,南方卫视
-http://39.134.23.150/PLTV/88888888/224/3221226028/index.m3u8
-#EXTINF:-1,卡酷少儿
-http://39.134.23.150/PLTV/88888888/224/3221226022/index.m3u8
-#EXTINF:-1,发现之旅
-http://39.134.23.150/PLTV/88888888/224/3221226034/index.m3u8
-#EXTINF:-1,CCTV1
-http://39.134.23.150/PLTV/88888888/224/3221226024/index.m3u8
-#EXTINF:-1,CCTV7
-http://39.134.23.150/PLTV/88888888/224/3221226036/index.m3u8
-#EXTINF:-1,广东公共
-http://39.134.23.150/PLTV/88888888/224/3221226030/index.m3u8
-#EXTINF:-1,幸福彩
-http://39.134.23.150/PLTV/88888888/224/3221226046/index.m3u8
-#EXTINF:-1,NewTV HD
-http://39.134.23.150/PLTV/88888888/224/3221226038/index.m3u8
-#EXTINF:-1,广西卫视
-http://39.134.23.150/PLTV/88888888/224/3221226040/index.m3u8
-#EXTINF:-1,CCTV10
-http://39.134.23.150/PLTV/88888888/224/3221226042/index.m3u8
-#EXTINF:-1,JO TV
-http://39.134.23.150/PLTV/88888888/224/3221226052/index.m3u8
-#EXTINF:-1,NewTV HD
-http://39.134.23.150/PLTV/88888888/224/3221226050/index.m3u8
-#EXTINF:-1,延边卫视
-http://39.134.23.150/PLTV/88888888/224/3221226026/index.m3u8
-#EXTINF:-1,快乐宠物
-http://39.134.23.150/PLTV/88888888/224/3221226056/index.m3u8
-#EXTINF:-1,NewTV HD
-http://39.134.23.150/PLTV/88888888/224/3221226054/index.m3u8
-#EXTINF:-1,BTV HD
-http://39.134.23.150/PLTV/88888888/224/3221226060/index.m3u8
-#EXTINF:-1,CCTV11
-http://39.134.23.150/PLTV/88888888/224/3221226074/index.m3u8
-#EXTINF:-1,CCTV5
-http://39.134.23.150/PLTV/88888888/224/3221226066/index.m3u8
-#EXTINF:-1,NewTV HD
-http://39.134.23.150/PLTV/88888888/224/3221226070/index.m3u8
-#EXTINF:-1,幸福彩HD
-http://39.134.23.150/PLTV/88888888/224/3221226078/index.m3u8
-#EXTINF:-1,NewTV HD
-http://39.134.23.150/PLTV/88888888/224/3221226068/index.m3u8
-#EXTINF:-1,CCTV12
-http://39.134.23.150/PLTV/88888888/224/3221226072/index.m3u8
-#EXTINF:-1,NewTV HD
-http://39.134.23.150/PLTV/88888888/224/3221226076/index.m3u8
-#EXTINF:-1,NewTV HD
-http://39.134.23.150/PLTV/88888888/224/3221226082/index.m3u8
-#EXTINF:-1,延边卫视
-http://39.134.23.150/PLTV/88888888/224/3221226080/index.m3u8
-#EXTINF:-1,NewTV HD
-http://39.134.23.150/PLTV/88888888/224/3221226086/index.m3u8
-#EXTINF:-1,NewTV HD
-http://39.134.23.150/PLTV/88888888/224/3221226084/index.m3u8
-#EXTINF:-1,岭南戏曲
-http://39.134.23.150/PLTV/88888888/224/3221226090/index.m3u8
-#EXTINF:-1,导视珠海
-http://39.134.23.150/PLTV/88888888/224/3221226088/index.m3u8
-#EXTINF:-1,NewTV HD
-http://39.134.23.150/PLTV/88888888/224/3221226092/index.m3u8
-#EXTINF:-1,CCTV13
-http://39.134.23.150/PLTV/88888888/224/3221226096/index.m3u8
-#EXTINF:-1,NewTV HD
-http://39.134.23.150/PLTV/88888888/224/3221226100/index.m3u8
-#EXTINF:-1,NewTV HD
-http://39.134.23.150/PLTV/88888888/224/3221226094/index.m3u8
-#EXTINF:-1,UFC HD
-http://39.134.23.150/PLTV/88888888/224/3221228847/index.m3u8
-#EXTINF:-1,UFC HD
-http://39.134.23.150/PLTV/88888888/224/3221228849/index.m3u8
-#EXTINF:-1,CCTV5
-http://39.134.23.150/PLTV/88888888/224/3221228861/index.m3u8
-#EXTINF:-1,UFC HD
-http://39.134.23.150/PLTV/88888888/224/3221228855/index.m3u8
-#EXTINF:-1,UFC HD
-http://39.134.23.150/PLTV/88888888/224/3221228851/index.m3u8
-#EXTINF:-1,UFC HD
-http://39.134.23.150/PLTV/88888888/224/3221228853/index.m3u8
-#EXTINF:-1,UFC HD
-http://39.134.23.150/PLTV/88888888/224/3221228857/index.m3u8
-#EXTINF:-1,UFC HD
-http://39.134.23.150/PLTV/88888888/224/3221228863/index.m3u8
-#EXTINF:-1,UFC HD
-http://39.134.23.150/PLTV/88888888/224/3221228865/index.m3u8
-#EXTINF:-1,UFC HD
-http://39.134.23.150/PLTV/88888888/224/3221228867/index.m3u8
-#EXTINF:-1,UFC HD
-http://39.134.23.150/PLTV/88888888/224/3221228859/index.m3u8
-#EXTINF:-1,山东卫视
-http://39.134.23.150/PLTV/88888888/224/3221229106/index.m3u8
-#EXTINF:-1,家购物
-http://39.134.23.150/PLTV/88888888/224/3221229110/index.m3u8
-#EXTINF:-1,女性时尚
-http://39.134.23.150/PLTV/88888888/224/3221229112/index.m3u8
+#EXTINF:0,XXL
+http://dt3zwsgl95oj4.cloudfront.net/live2/xxl.smil/manifest.m3u8
+#EXTINF:0,Dorcel
+http://dt3zwsgl95oj4.cloudfront.net/live2/dorceltv.smil/manifest.m3u8
+#EXTINF:0,?????? ????
+http://iptv.multi-net.ru:80/udp/239.255.4.1:1234
+#EXTINF:0,TV ??????? ????
+http://iptv.multi-net.ru:80/udp/239.255.4.2:1234
+#EXTINF:0,FRENCHLOVER
+http://iptv.multi-net.ru:80/udp/239.255.4.4:1234
+#EXTINF:0,????????? ??
+http://iptv.multi-net.ru:80/udp/239.255.4.5:1234
+#EXTINF:0,O-la-la!
+http://iptv.multi-net.ru:80/udp/239.255.4.6:1234
+#EXTINF:0,Brazzers TV Europe
+http://iptv.multi-net.ru:80/udp/239.255.4.7:1234
+#EXTINF:0,tv france
+http://dt3zwsgl95oj4.cloudfront.net/live2/xxl.smil/manifest.m3u8
+#EXTINF:0,Dorcel +18
+http://dt3zwsgl95oj4.cloudfront.net/live2/dorceltv.smil/manifest.m3u8
+#EXTINF:0,Ero XXX
+http://91.216.173.148:4073/u
+#EXTINF:0,Ero X HD
+http://91.216.173.148:4074/i
+#EXTINF:0,Ero XXX
+http://gg.gg/39233
+#EXTINF:0,Ero XX
+http://gg.gg/3925a
+#EXTINF:0,Bella Club
+rtsp://46.249.213.87/broadcast/bellaluz-tablet.3gp
+#EXTINF:0,BRAZZERS
+http://80.87.146.133:1111/udp/230.3.4.121:5678
+#EXTINF:0,CS Sex +18 ADULT mmsh
+mmsh://tv.webmisto.cz:7000
+#EXTINF:0,DLDVS 1
+http://208.122.3.2:9000
+#EXTINF:0,DLDVS 2
+http://208.122.3.2:8700
+#EXTINF:0,DLDVS 3
+http://208.122.3.2:9500
+#EXTINF:0,DORCEL
+http://213.202.73.254:443/udp/232.50.31.66:1234
+#EXTINF:0,FILMON - Black
+rtmp://live190.la3.origin.filmon.com:8086/live/244.high.stream
+#EXTINF:0,FILMON - Filthon1
+rtmp://live190.la3.origin.filmon.com:8086/live/247.high.stream
+#EXTINF:0,FILMON - Filthon2
+rtmp://live190.la3.origin.filmon.com:8086/live/245.high.stream
+#EXTINF:0,FILMON - Filthon3
+rtmp://live190.la3.origin.filmon.com:8086/live/246.high.stream
+#EXTINF:0,frenГ§lover
+http://213.202.73.254:443/udp/232.50.100.111:1234
+#EXTINF:0,FRENГ‡LOVER
+http://213.202.73.254:443/udp/232.50.31.68:1234
+#EXTINF:0,FRENГ‡LOVER
+http://213.202.73.254:443/udp/232.50.32.68:1234
+#EXTINF:0,FRENCHLOVER
+http://80.87.146.133:1111/udp/230.3.4.150:5678
+#EXTINF:0,HALLOTV
+http://83.169.58.38:1935/live/HalloTV1/playlist.m3u8
+#EXTINF:0,HQ Amateurs
+http://galsflv.videosz.com//mom-and-the-pop_5/videosz-mom-and-the-pop-53.flv
+#EXTINF:0,Korea 18+++(HD)
+rtmp://lm07.everyon.tv/ptv7/phd1005
+#EXTINF:0,Korea BUTGOTO
+rtmp://lm07.everyon.tv/ptv7/phd772
+#EXTINF:0,Korea DeilghtEmpire
+rtmp://lm07.everyon.tv/ptv7/phd63
+#EXTINF:0,Korea GiRL
+rtmp://lm07.everyon.tv/ptv7/phd501
+#EXTINF:0,Korea HONEY
+rtmp://lm07.everyon.tv/ptv7/phd928
+#EXTINF:0,Korea HOTGiRL
+rtmp://lm07.everyon.tv/ptv7/phd59
+#EXTINF:0,Korea JAV TV(HD)
+rtmp://lm07.everyon.tv:1935/ptv7/phd1003
+#EXTINF:0,Korea LiVETRiNG
+rtmp://lm07.everyon.tv/ptv7/phd64
+#EXTINF:0,Korea MiDNiGHT
+rtmp://lm07.everyon.tv/ptv7/phd766
+#EXTINF:0,Korea OKADAi
+rtmp://lm07.everyon.tv/ptv7/phd61
+#EXTINF:0,Korea Paradise(HD)
+rtmp://lm07.everyon.tv/ptv7/phd1008
+#EXTINF:0,Korea PENTHOUSE
+rtmp://lm07.everyon.tv/ptv7/phd927
+#EXTINF:0,Korea PiNK
+rtmp://lm07.everyon.tv:1935/ptv7/phd62
+#EXTINF:0,Korea Playboy
+rtmp://lm07.everyon.tv/ptv7/phd499
+#EXTINF:0,Korea PLAYY
+rtmp://lm07.everyon.tv/ptv7/phd769
+#EXTINF:0,Korea Red On
+rtmp://lm07.everyon.tv/ptv7/phd60
+#EXTINF:0,Korea South Korea 511
+rtmp://lm07.everyon.tv/ptv7/phd511
+#EXTINF:0,Korea South Korea 765
+rtmp://lm07.everyon.tv/ptv7/phd765
+#EXTINF:0,Korea THE O
+rtmp://lm07.everyon.tv/ptv7/phd771
+#EXTINF:0,O-la-la
+http://188.138.9.234:8118
+#EXTINF:0,Playboy Tv 23-05-ig
+http://tinyurl.hu/gE4J/
+#EXTINF:0,Red Light Central TV CHAT 1 +16 ADULT
+rtsp://46.249.213.87/broadcast/redlight-1-tablet.3gp
+#EXTINF:0,Red Light Central TV CHAT 3 +16 ADULT
+rtsp://46.249.213.87/broadcast/redlight-3-tablet.3gp
+#EXTINF:0,REDLIGHT HD
+http://213.110.137.87:4022/udp/239.10.0.240:1234
+#EXTINF:0,RLC2 CHAT +16 ADULT
+rtsp://46.249.213.87/broadcast/redlight-2-tablet.3gp
+#EXTINF:0,R-NiGHT
+http://80.87.146.133:1111/udp/230.3.4.110:5678
+#EXTINF:0,SexTv3
+http://tinyurl.hu/OKVt/
+#EXTINF:0,ViSiTX
+rtmp://194.116.150.47/live/visitx.stream1
+#EXTINF:0,XXX Music
+http://zazax1.ru/video/basstr.flv
+#EXTINF:0,XXX Music 1
+http://zazax1.ru/videos/baz55.flv
+#EXTINF:0,XXX Music 10
+http://zazax1.ru/videos/baz64.flv
+#EXTINF:0,XXX Music 11
+http://zazax1.ru/video/muz10.flv
+#EXTINF:0,XXX Music 12
+http://zazax1.ru/videos/muz1.flv
+#EXTINF:0,XXX Music 13
+http://zazax1.ru/videos/muz3.flv
+#EXTINF:0,XXX Music 14
+http://zazax1.ru/video/provmc.flv
+#EXTINF:0,XXX Music 15
+http://zazax1.ru/video/muz3.flv
+#EXTINF:0,XXX Music 16
+http://zazax1.ru/video/barto.mp4
+#EXTINF:0,XXX Music 17
+http://zazax1.ru/video/mzclip.mp4
+#EXTINF:0,XXX Music 18
+http://zazax1.ru/video/masterlatex.mp4
+#EXTINF:0,XXX Music 19
+http://zazax1.ru/video/Money%20Boy-Stripclub.flv
+#EXTINF:0,XXX Music 2
+http://zazax1.ru/videos/baz4.flv
+#EXTINF:0,XXX Music 20
+http://zazax1.ru/video/Linkin%20Park%20Uncensored.mp4
+#EXTINF:0,XXX Music 21
+http://zazax1.ru/video/Junior%20Jack%20-%20Stupidisco.mp4
+#EXTINF:0,XXX Music 22
+http://zazax1.ru/video/Flawliss%20-%20Ms.%20Apple%20Bottom.flv
+#EXTINF:0,XXX Music 23
+http://zazax1.ru/video/Fig%20Dish%20-%20When%20shirts%20get%20tight.mp4
+#EXTINF:0,XXX Music 3
+http://zazax1.ru/videos/baz57.flv
+#EXTINF:0,XXX Music 4
+http://zazax1.ru/videos/muz.flv
+#EXTINF:0,XXX Music 5
+http://zazax1.ru/videos/baz66.flv
+#EXTINF:0,XXX Music 6
+http://zazax1.ru/video/lesr.flv
+#EXTINF:0,XXX Music 7
+http://zazax1.ru/videos/baz65.flv
+#EXTINF:0,XXX Music 8
+http://zazax1.ru/video/nemnf.flv
+#EXTINF:0,XXX Music 9
+http://zazax1.ru/videos/011.flv
+#EXTINF:0,XXX VOD 01
+http://videos-porno5.petardashd.com/archivos3/hd/hd-167441-c8e88fa.mp4
+#EXTINF:0,XXX VOD 02
+http://videos-porno2.petardashd.com/archivos3/hd/hd-171914-037556b.mp4
+#EXTINF:0,XXX VOD 03
+http://videos-porno8.petardashd.com/archivos3/hd/hd-168425-c926445.mp4
+#EXTINF:0,XXX VOD 04
+http://videos-porno5.petardashd.com/archivos3/hd/hd-170299-037b3a7.mp4
+#EXTINF:0,XXX VOD 05
+http://videos-porno5.petardashd.com/archivos3/hd/hd-170889-21fb165.mp4
+#EXTINF:0,XXX VOD 06
+http://videos-porno2.petardashd.com/archivos3/hd/hd-167525-c8c9a28.mp4
+#EXTINF:0,XXX VOD 07
+http://videos-porno2.petardashd.com/archivos3/hd/hd-169900-99a74de.mp4
+#EXTINF:0,XXX VOD 08
+http://videos-porno1.petardashd.com/archivos3/hd/hd-167787-c8c8bc5.mp4
+#EXTINF:0,XXX VOD 09
+http://videos-porno8.petardashd.com/archivos3/hd/hd-170741-036d57a.mp4
+#EXTINF:0,XXX VOD 10
+http://videos-porno1.petardashd.com/archivos3/hd/hd-168873-c75ec87.mp4
+#EXTINF:0,XXX VOD 11
+http://videos-porno8.petardashd.com/archivos3/hd/hd-168779-c802432.mp4
+#EXTINF:0,XXX VOD 12
+http://videos-porno2.petardashd.com/archivos3/hd/hd-169902-98710ed.mp4
+#EXTINF:0,XXX VOD 13
+http://videos-porno1.petardashd.com/archivos3/hd/hd-169239-c7ce9a1.mp4
+#EXTINF:0,XXX VOD 14
+http://videos-porno5.petardashd.com/archivos3/hd/hd-171599-0327123.mp4
+#EXTINF:0,XXX VOD 15
+http://videos-porno2.petardashd.com/archivos3/hd/hd-167362-c7c997c.mp4
+#EXTINF:0,XXX VOD 16
+http://videos-porno2.petardashd.com/archivos3/hd/hd-171326-20b3d23.mp4
+#EXTINF:0,XXX VOD 17
+http://videos-porno2.petardashd.com/archivos3/hd/hd-167775-c7bfee1.mp4
+#EXTINF:0,XXX VOD 18
+http://videos-porno5.petardashd.com/archivos3/hd/hd-166393-c7b993b.mp4
+#EXTINF:0,XXX VOD 18
+http://videos-porno5.petardashd.com/archivos3/hd/hd-169871-9830686.mp4
+#EXTINF:0,XXX VOD 20
+http://videos-porno8.petardashd.com/archivos3/hd/hd-170744-02655b2.mp4
+#EXTINF:0,XXX VOD 21
+http://videos-porno5.petardashd.com/archivos3/hd/hd-168315-c77aec8.mp4
+#EXTINF:0,XXX VOD 22
+http://videos-porno5.petardashd.com/archivos3/hd/hd-171751-02eacb6.mp4
+#EXTINF:0,XXX VOD 23
+http://videos-porno1.petardashd.com/archivos3/hd/hd-167798-c777df8.mp4
+#EXTINF:0,XXX VOD 24
+http://videos-porno2.petardashd.com/archivos3/hd/hd-167450-c76bdc4.mp4
+#EXTINF:0,XXX VOD 25
+http://videos-porno8.petardashd.com/archivos3/hd/hd-169628-97635af.mp4
+#EXTINF:0,XXX VOD 26
+http://videos-porno1.petardashd.com/archivos3/hd/hd-170731-060f53e.mp4
+#EXTINF:0,XXX VOD 27
+http://videos-porno2.petardashd.com/archivos3/hd/hd-166487-cbc0408.mp4
+#EXTINF:0,XXX VOD 28
+http://videos-porno5.petardashd.com/archivos3/hd/hd-172160-06574c0.mp4
+#EXTINF:0,XXX VOD 29
+http://videos-porno5.petardashd.com/archivos3/hd/hd-167129-cb87d4c.mp4
+#EXTINF:0,XXX VOD 30
+http://videos-porno2.petardashd.com/archivos3/hd/hd-171088-269e957.mp4
+#EXTINF:0,XXX VOD 31
+http://videos-porno8.petardashd.com/archivos3/hd/hd-167593-cb7cb5e.mp4
+#EXTINF:0,XXX VOD 32
+http://videos-porno1.petardashd.com/archivos3/hd/hd-169826-9ef34cc.mp4
+#EXTINF:0,XXX VOD 33
+http://videos-porno8.petardashd.com/archivos3/hd/hd-168664-cb605bb.mp4
+#EXTINF:0,XXX VOD 34
+http://videos-porno2.petardashd.com/archivos3/hd/hd-170213-05f1bd2.mp4
+#EXTINF:0,XXX VOD 35
+http://videos-porno2.petardashd.com/archivos3/hd/hd-166543-cb4208e.mp4
+#EXTINF:0,XXX VOD 36
+http://videos-porno1.petardashd.com/archivos3/hd/hd-171946-0609da9.mp4
+#EXTINF:0,XXX VOD 37
+http://videos-porno5.petardashd.com/archivos3/hd/hd-167704-cb3bbf3.mp4
+#EXTINF:0,XXX VOD 38
+http://videos-porno1.petardashd.com/archivos3/hd/hd-171174-25eabfb.mp4
+#EXTINF:0,XXX VOD 39
+http://videos-porno5.petardashd.com/archivos3/hd/hd-168818-cb39265.mp4
+#EXTINF:0,XXX VOD 40
+http://videos-porno8.petardashd.com/archivos3/hd/hd-169788-9e123a0.mp4
+#EXTINF:0,XXX VOD 41
+http://videos-porno1.petardashd.com/archivos3/hd/hd-168100-cb02850.mp4
+#EXTINF:0,XXX VOD 42
+http://videos-porno5.petardashd.com/archivos3/hd/hd-170013-0549e11.mp4
+#EXTINF:0,XXX VOD 43
+http://videos-porno5.petardashd.com/archivos3/hd/hd-167879-cae8a11.mp4
+#EXTINF:0,XXX VOD 44
+http://videos-porno2.petardashd.com/archivos3/hd/hd-171402-25c8c2b.mp4
+#EXTINF:0,XXX VOD 45
+http://videos-porno8.petardashd.com/archivos3/hd/hd-169360-cae3ee5.mp4
+#EXTINF:0,XXX VOD 46
+http://videos-porno8.petardashd.com/archivos3/hd/hd-169784-9ddd444.mp4
+#EXTINF:0,XXX VOD 47
+http://videos-porno5.petardashd.com/archivos3/hd/hd-166446-cac0bc8.mp4
+#EXTINF:0,XXX VOD 48
+http://videos-porno2.petardashd.com/archivos3/hd/hd-170616-04eb87d.mp4
+#EXTINF:0,XXX VOD 49
+http://videos-porno2.petardashd.com/archivos3/hd/hd-169288-ca5f2f4.mp4
+#EXTINF:0,XXX VOD 50
+http://videos-porno1.petardashd.com/archivos3/hd/hd-167337-ca5a5f9.mp4
+#EXTINF:0,XXX-VOD European 01
+http://video.mystreamservice.com/480p/3249585.mp4
+#EXTINF:0,XXX-VOD European 02
+http://video.mystreamservice.com/480p/6575436.mp4
+#EXTINF:0,XXX-VOD European 03
+http://video.mystreamservice.com/480p/3963342.mp4
+#EXTINF:0,XXX-VOD European 04
+http://video.mystreamservice.com/480p/9782465.mp4
+#EXTINF:0,XXX-VOD European 05
+http://video.mystreamservice.com/480p/3930465.mp4
+#EXTINF:0,XXX-VOD European 06
+http://video.mystreamservice.com/480p/6283262.mp4
+#EXTINF:0,XXX-VOD European 07
+http://video.mystreamservice.com/480p/6754703.mp4
+#EXTINF:0,XXX-VOD European 08
+http://video.mystreamservice.com/480p/8133916.mp4
+#EXTINF:0,XXX-VOD European 09
+http://video.mystreamservice.com/480p/6444083.mp4
+#EXTINF:0,XXX-VOD European 10
+http://video.mystreamservice.com/480p/5349136.mp4
+#EXTINF:0,XXX-VOD European 11
+http://video.mystreamservice.com/480p/1767086.mp4
+#EXTINF:0,XXX-VOD European 12
+http://video.mystreamservice.com/480p/3767469.mp4
+#EXTINF:0,XXX-VOD European 13
+http://video.mystreamservice.com/480p/4590645.mp4
+#EXTINF:0,XXX-VOD European 14
+http://video.mystreamservice.com/480p/2051041.mp4
+#EXTINF:0,XXX-VOD European 15
+http://video.mystreamservice.com/480p/4821940.mp4
+#EXTINF:0,XXX-VOD European 16
+http://video.mystreamservice.com/480p/9653942.mp4
+#EXTINF:0,XXX-VOD European 17
+http://video.mystreamservice.com/480p/5150346.mp4
+#EXTINF:0,XXX-VOD European 18
+http://video.mystreamservice.com/480p/1001590.mp4
+#EXTINF:0,XXX-VOD European 19
+http://video.mystreamservice.com/480p/9098910.mp4
+#EXTINF:0,XXX-VOD European 20
+http://www.hdtubes.net/get_file/22/2f8ffcf45c84551b10784d8bd92921d8/6000/6081/6081.mp4
+#EXTINF:0,XXX-VOD European 21
+http://www.hdtubes.net/get_file/25/aae603d09acd62ef2438c544263ddd70/6000/6512/6512.mp4
+#EXTINF:0,XXX-VOD European 22
+http://www.hdtubes.net/get_file/6/3375bb99d223d0903122bdd83f9d833c/5000/5131/5131.mp4
+#EXTINF:0,XXX-VOD European 23
+http://www.hdtubes.net/get_file/13/e181f8869d38e9295f595433c9e8b631/5000/5893/5893.mp4
+#EXTINF:0,XXX-VOD European 24
+http://www.finevids.com/get_file/3/21a52dc99f2b2c16bc8fd5ade6148e0e/31000/31714/31714.mp4
+#EXTINF:0,XXX-VOD European 25
+http://www.pornoid.com/get_file/1/97d87ea457fd5fe1344898ca9f39e656/11000/11231/11231.mp4
+#EXTINF:0,XXX-VOD European 27
+http://video.mystreamservice.com/480p/2081078.mp4
+#EXTINF:0,XXX-VOD European 28
+http://www.hdtubes.net/get_file/24/6fd9bb140d79f87e33ecc9727b8f1b04/7000/7939/7939.mp4
+#EXTINF:0,XXX-VOD European 29
+http://www.hdtubes.net/get_file/7/e22ff24188aa9bbbbc8d89663ebf7935/7000/7617/7617.mp4
+#EXTINF:0,XXX-VOD European 30
+http://www.hdtubes.net/get_file/22/b08c4434080a9c8773160c90cca967d5/7000/7965/7965.mp4
+#EXTINF:0,XXX-VOD European 31
+http://www.hdtubes.net/get_file/14/f81d40a4fe0c994d792759cabd69491c/7000/7660/7660.mp4
+#EXTINF:0,XXX-VOD European 32
+http://www.hdtubes.net/get_file/5/d9f2edb57c7dc8c26b557203b442f7fd/5000/5277/5277.mp4
+#EXTINF:0,XXX-VOD European 33
+http://www.hdtubes.net/get_file/11/935a2edca33985bf984fec79a471a32f/7000/7739/7739.mp4
+#EXTINF:0,XXX-VOD European 34
+http://www.hdtubes.net/get_file/19/386914e0d17bdf734fc6c0564ba57403/5000/5181/5181.mp4
+#EXTINF:0,XXX-VOD European 35
+http://www.hdtubes.net/get_file/12/66154657a01aca1094228e0204f7b659/5000/5959/5959.mp4
+#EXTINF:0,XXX-VOD European 36
+http://www.hdtubes.net/get_file/11/e92d467d62b24cc08e6b320343da9634/7000/7614/7614.mp4
+#EXTINF:0,XXX-VOD European 37
+http://www.hdtubes.net/get_file/11/466e7431f029d4c0d216a8cc8d27dece/4000/4931/4931.mp4
+#EXTINF:0,XXX-VOD European 38
+http://www.hdtubes.net/get_file/21/da2eb118306d8826273629b108e4017f/6000/6592/6592.mp4
+#EXTINF:0,XXX-VOD European 39
+http://www.hdtubes.net/get_file/19/379e1bad480c487d0b1e1a1bd5ee910b/4000/4974/4974.mp4
+#EXTINF:0,XXX-VOD European 40
+http://www.hdtubes.net/get_file/22/31c10f8747ed1f0e5930fc18f7742635/4000/4081/4081.mp4
+#EXTINF:0,XXX-VOD European 41
+http://www.hdtubes.net/get_file/17/80ef349821223afbd69864324a01921d/5000/5195/5195.mp4
+#EXTINF:0,XXX-VOD European 42
+http://www.hdtubes.net/get_file/13/287bfcce92654cfd9362b1d9c772dce1/7000/7949/7949.mp4
+#EXTINF:0,XXX-VOD European 43
+http://www.hdtubes.net/get_file/22/c3cff8a898b4f4a26f2d6cfae13bdbff/3000/3991/3991.mp4
+#EXTINF:0,XXX-VOD European 45
+http://www.hdtubes.net/get_file/23/c06b2df5beccfd2df1f3609ba99e9280/6000/6011/6011.mp4
+#EXTINF:0,XXX-VOD European 46
+http://www.hdtubes.net/get_file/18/715bddc9fd1026616ff1d95720d60d22/7000/7733/7733.mp4
+#EXTINF:0,XXX-VOD European 47
+http://www.hdtubes.net/get_file/20/319c1ee88d3ac2ea60340fa3f2c28606/5000/5165/5165.mp4
+#EXTINF:0,XXX-VOD European 48
+http://www.hdtubes.net/get_file/8/72a0ab10d1d6c10e82ccfbe1d84f5d53/5000/5186/5186.mp4
+#EXTINF:0,XXX-VOD European 49
+http://www.hdtubes.net/get_file/14/ac3127f4a783891f4ee8c492c5fae2f6/7000/7537/7537.mp4
+#EXTINF:0,XXX-VOD European 50
+http://www.hdtubes.net/get_file/6/8d970403b1bda9f4b538f5b684ec0b36/7000/7540/7540.mp4
+
+
+XXXHD
+http://188.165.220.116:8081/live/8/playlist.m3u8
+
+#EXTINF:-1, XXL
+http://178.167.2.240:1234/udp/234.5.2.246:1234
+
+#EXTINF:-1, P. Boy
+http://178.167.2.240:1234/udp/234.5.2.247:1234
+
+#EXTINF:-1, Brezerrs tv
+http://178.167.2.240:1234/udp/234.5.2.248:1234
+
+#EXTINF:-1, Русская Ночь
+http://178.167.2.240:1234/udp/234.5.2.249:1234
+
+#EXTINF:0, TEMPTATION
+http://46.47.7.160:1234/udp/224.244.244.97:19993
+
+#EXTINF:0, Nightclub
+http://46.47.7.160:1234/udp/224.244.244.199:19993
+
+#EXTINF:0, Russian Night
+http://46.47.7.160:1234/udp/224.244.244.200:19993
