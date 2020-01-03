@@ -518,926 +518,424 @@ http://langamepp.com/chtst/164F110A974429DC7DF09A5D3ECC725127762032A275550DFD211
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/v99U3JE.png" tvg-country="INT" tvg-url="" group-title="XXX",Amazing TV
+http://204.45.182.172:26789/i/ghjnvq5o/8c85fsaf/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KmokZz8.jpg" tvg-country="INT" tvg-url="" group-title="XXX",AST TV 1
+http://www.ast.tv/stream/1/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KmokZz8.jpg" tvg-country="INT" tvg-url="" group-title="XXX",AST TV 1
+https://www.ast.tv/stream/1/high.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KmokZz8.jpg" tvg-country="INT" tvg-url="" group-title="XXX",AST TV 1
+https://www.ast.tv/stream/1/ultra.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KmokZz8.jpg" tvg-country="INT" tvg-url="" group-title="XXX",AST TV 2
+http://www.ast.tv/stream/2/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KmokZz8.jpg" tvg-country="INT" tvg-url="" group-title="XXX",AST TV 2
+https://www.ast.tv/stream/2/high.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KmokZz8.jpg" tvg-country="INT" tvg-url="" group-title="XXX",AST TV 2
+https://www.ast.tv/stream/2/normal.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KmokZz8.jpg" tvg-country="INT" tvg-url="" group-title="XXX",AST TV 2
+https://www.ast.tv/stream/2/ultra.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/AHHE8Rt.png" tvg-country="DE" tvg-url="" group-title="XXX",Babestation24
+https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/amlst:9528-mbr/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/N8Z939N.png" tvg-country="INT" tvg-url="" group-title="XXX",HOT
+http://204.45.182.172:26789/i/ghjnvq5o/8c855d75/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/Le2jClo.png" tvg-country="TW" tvg-url="" group-title="XXX",IBiza 1
+http://fxzb.bbwqg.cn/proxy/box.php?id=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/Le2jClo.png" tvg-country="TW" tvg-url="" group-title="XXX",IBiza 10
+http://fxzb.bbwqg.cn/proxy/box.php?id=10
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/Le2jClo.png" tvg-country="TW" tvg-url="" group-title="XXX",IBiza 2
+http://fxzb.bbwqg.cn/proxy/box.php?id=2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/Le2jClo.png" tvg-country="TW" tvg-url="" group-title="XXX",IBiza 3
+http://fxzb.bbwqg.cn/proxy/box.php?id=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/Le2jClo.png" tvg-country="TW" tvg-url="" group-title="XXX",IBiza 4
+http://fxzb.bbwqg.cn/proxy/box.php?id=4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/Le2jClo.png" tvg-country="TW" tvg-url="" group-title="XXX",IBiza 5
+http://fxzb.bbwqg.cn/proxy/box.php?id=5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/Le2jClo.png" tvg-country="TW" tvg-url="" group-title="XXX",IBiza 6
+http://fxzb.bbwqg.cn/proxy/box.php?id=6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/Le2jClo.png" tvg-country="TW" tvg-url="" group-title="XXX",IBiza 7
+http://fxzb.bbwqg.cn/proxy/box.php?id=7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/Le2jClo.png" tvg-country="TW" tvg-url="" group-title="XXX",IBiza 8
+http://fxzb.bbwqg.cn/proxy/box.php?id=8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/Le2jClo.png" tvg-country="TW" tvg-url="" group-title="XXX",IBiza 9
+http://fxzb.bbwqg.cn/proxy/box.php?id=9
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KJm7i78.png" tvg-country="INT" tvg-url="" group-title="XXX",Jasmin TV
+http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KJm7i78.png" tvg-country="INT" tvg-url="" group-title="XXX",Jasmin TV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1190948669.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KJm7i78.png" tvg-country="INT" tvg-url="" group-title="XXX",Jasmin TV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1639491303.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KJm7i78.png" tvg-country="INT" tvg-url="" group-title="XXX",Jasmin TV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1770948941.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KJm7i78.png" tvg-country="INT" tvg-url="" group-title="XXX",Jasmin TV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w815696992.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KJm7i78.png" tvg-country="INT" tvg-url="" group-title="XXX",Jasmin TV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w934179313.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KJm7i78.png" tvg-country="INT" tvg-url="" group-title="XXX",Jasmin TV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KJm7i78.png" tvg-country="INT" tvg-url="" group-title="XXX",Jasmin TV
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/chunklist_w513145911.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KJm7i78.png" tvg-country="INT" tvg-url="" group-title="XXX",Jasmin TV
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KJm7i78.png" tvg-country="INT" tvg-url="" group-title="XXX",Jasmin TV
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KJm7i78.png" tvg-country="INT" tvg-url="" group-title="XXX",Jasmin TV
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.imgur.com/3vf53u4.png" tvg-country="KR" tvg-url="" group-title="XXX",Korean Adult TV
+http://122.38.74.172:9981/stream/channelid/1463854277
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/WlrcyMe.png" tvg-country="US" tvg-url="" group-title="XXX",Miami TV
+https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/WlrcyMe.png" tvg-country="US" tvg-url="" group-title="XXX",Miami TV Jenny Live
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1869403172_b1896000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/WlrcyMe.png" tvg-country="US" tvg-url="" group-title="XXX",Miami TV Latino
+https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w577650521_b2592000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.imgur.com/ftg9DbR.png" tvg-country="KR" tvg-url="" group-title="XXX",Midnight TV
+http://112.148.183.161:9981/stream/channelid/96001658
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/Gsoilhg.jpg" tvg-country="INT" tvg-url="" group-title="XXX",Pandora Pink HD
+http://204.45.182.172:26789/i/ghjnvq5o/8c85giea/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/Q8LP7EX.png" tvg-country="NL" tvg-url="" group-title="XXX",Private TV HD
+http://188.35.9.5:10005/stolen/153a/imposter.rar
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/1kB5Mk6.png" tvg-country="INT" tvg-url="" group-title="XXX",Rainbow TV
+http://204.45.182.172:26789/i/ghjnvq5o/8c855daa/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/BMJDW7r.png" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Big Ass
+http://live.redtraffic.xyz/bigass.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/iNmHyo2.png" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Big Dick
+http://live.redtraffic.xyz/bigdick.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/L0VcV7w.png" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Big Tits
+http://live.redtraffic.xyz/bigtits.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/xfIelNY.png" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Blowjob
+http://live.redtraffic.xyz/blowjob.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/rzZYfkN.png" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Cuckold
+http://live.redtraffic.xyz/cuckold.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/bp1qW74.png" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Fetish
+http://live.redtraffic.xyz/fetish.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/6LqaFuD.png" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Hardcore
+http://live.redtraffic.xyz/hardcore.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/t3LXxuv.png" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Interracial
+http://live.redtraffic.xyz/interracial.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/uosNpWk.png" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Latina
+http://live.redtraffic.xyz/latina.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/6dgyIz0.png" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Lesbian
+http://live.redtraffic.xyz/lesbian.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/acW4Fe9.png" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic MILF
+http://live.redtraffic.xyz/milf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/S2kSwfv.png" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Pornstar
+http://live.redtraffic.xyz/pornstar.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/EvqysKS.png" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic POV
+http://live.redtraffic.xyz/pov.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/5WSwI1A.png" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Russian
+http://live.redtraffic.xyz/russian.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/3nOaNzu.png" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Teen
+http://live.redtraffic.xyz/teen.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/k85bqov.png" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Threesome
+http://live.redtraffic.xyz/threesome.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/JgcUO21.jpg" tvg-country="HU" tvg-url="" group-title="XXX",Super One HD
+http://188.35.9.5:10007/stolen/246r/parasite.install
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/NvuyGVb.png" tvg-country="INT" tvg-url="" group-title="XXX",Sōng shì 1
+http://204.45.182.172:26789/i/ghjnvq5o/8c855fdf/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/U2DMApL.png" tvg-country="INT" tvg-url="" group-title="XXX",Sōng shì 2
+http://204.45.182.172:26789/i/ghjnvq5o/984fa1vb/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.imgur.com/EJZPlK9.jpg" tvg-country="KR" tvg-url="" group-title="XXX",Viki
+http://112.148.183.161:9981/stream/channelid/488704961
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/RJ9wbNF.jpg" tvg-country="NL" tvg-url="" group-title="XXX",Visit-X TV
+http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/EWkFM9u.jpg" tvg-country="US" tvg-url="" group-title="XXX",Vivid TV Europe
+http://188.35.9.26:2031/udp/031a
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/6wjMqzM.png" tvg-country="INT" tvg-url="" group-title="XXX",XCafe 1
+http://204.45.182.172:26789/i/ghjnvq5o/846a1ghm/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/6wjMqzM.png" tvg-country="INT" tvg-url="" group-title="XXX",XCafe 2
+http://204.45.182.172:26789/i/ghjnvq5o/1bf4a301/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/6wjMqzM.png" tvg-country="INT" tvg-url="" group-title="XXX",XCafe 3
+http://204.45.182.172:26789/i/ghjnvq5o/ahun18hg/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/6wjMqzM.png" tvg-country="INT" tvg-url="" group-title="XXX",XCafe 4
+http://204.45.182.172:26789/i/ghjnvq5o/84a15gbc/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/6wjMqzM.png" tvg-country="INT" tvg-url="" group-title="XXX",XCafe Anal
+http://204.45.182.172:26789/i/ghjnvq5o/952a3vvv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/6wjMqzM.png" tvg-country="INT" tvg-url="" group-title="XXX",XCafe Asian
+http://204.45.182.172:26789/i/ghjnvq5o/456oinav/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/6wjMqzM.png" tvg-country="INT" tvg-url="" group-title="XXX",XCafe Blowjob
+http://204.45.182.172:26789/i/ghjnvq5o/91bnjred/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/6wjMqzM.png" tvg-country="INT" tvg-url="" group-title="XXX",XCafe Ebony
+http://204.45.182.172:26789/i/ghjnvq5o/8jainsbq/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/6wjMqzM.png" tvg-country="INT" tvg-url="" group-title="XXX",XCafe Erotic
+http://204.45.182.172:26789/i/ghjnvq5o/v19a2133/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Polish" tvg-logo="https://i.imgur.com/BLFrhLJ.png" tvg-country="PL" tvg-url="" group-title="XXX",Zest TV
+http://188.35.9.5:10007/stolen/214g/parasite.install
 
 
 
-#EXTINF:-1,***HasBahCa IPTV***YETİSKİN-ADULT+18***
-http://www.hasbahcaiptv.com/m3u/turkiye.mp4
-#EXTINF:-1,ASIA 8081
-http://59.120.43.181:8081
-#EXTINF:-1,ASIA 8082
-http://59.120.43.181:8082
-#EXTINF:-1,ASIA 8083
-http://59.120.43.181:8083
-#EXTINF:-1,ASIA 8084
-http://59.120.43.181:8084
-#EXTINF:-1,ASIA 8085
-http://59.120.43.181:8085
-#EXTINF:-1,ASIA 8086
-http://59.120.43.181:8086
-#EXTINF:-1,ASIA 8087
-http://59.120.43.181:8087
-#EXTINF:-1,ASIA rtmp ttv10
-rtmp://149.3.141.210:1935/tv/ttv10
-#EXTINF:-1,ASIA rtmp ttv11
-rtmp://149.3.141.210:1935/tv/ttv11
-#EXTINF:-1,ASIA rtmp ttv12
-rtmp://149.3.141.210:1935/tv/ttv12
-#EXTINF:-1,ASIA rtmp ttv13
-rtmp://149.3.141.210:1935/tv/ttv13
-#EXTINF:-1,ASIA rtmp ttv14
-rtmp://149.3.141.210:1935/tv/ttv14
-#EXTINF:-1,ASIA rtmp ttv15
-rtmp://149.3.141.210:1935/tv/ttv15
-#EXTINF:-1,ASIA rtmp ttv16
-rtmp://149.3.141.210:1935/tv/ttv16
-#EXTINF:-1,BABESTATION 33
-http://46.105.116.159:1935/cellcast/encoder33/HasBahCa.m3u8
-#EXTINF:-1,Blue Hustler
-http://hlsstr04.svc.iptv.rt.ru/hls/CH_BLUEHUSTLER/variant.m3u8?version=2
-#EXTINF:-1,Brasileirinhas
-http://212.129.30.215/brasileirinhas/brasileirinhas/chunklist_w219953667.m3u8
-#EXTINF:-1,Brasileirinhas TV
-http://212.129.30.215/brasileirinhas/brasileirinhas/chunklist.m3u8
-#EXTINF:-1,CS Sex +18 ADULT mmsh
-mmsh://tv.webmisto.cz:7000
-#EXTINF:-1,DLDVS 1
-http://208.122.3.2:9000
-#EXTINF:-1,DLDVS 2
-http://208.122.3.2:8700
-#EXTINF:-1,HQ Amateurs
-http://galsflv.videosz.com//mom-and-the-pop_5/videosz-mom-and-the-pop-53.flv
+#EXTINF:-1,https://rus-iptv.ru
+https://rus-iptv.ru/wp-content/uploads/2019/02/rus-iptv.ru-playlist-m3u.jpg
+#EXTINF:-1,XXX REDLIGHT HD
+http://cem1.ddns.net:8000/ifo26/0101/2864 
+#EXTINF:-1,XXX EVIL ANGEL
+http://cem1.ddns.net:8000/ifo26/0101/2861 
+#EXTINF:-1,XXX PASSIONX
+http://cem1.ddns.net:8000/ifo26/0101/2865 
+#EXTINF:-1,XXX ANDROTIK 6HD
+http://cem1.ddns.net:8000/ifo26/0101/2824 
+#EXTINF:-1,XXX ANDROTIK 7HD
+http://cem1.ddns.net:8000/ifo26/0101/2823 
+#EXTINF:-1,XXX PLAYBOY
+http://cem1.ddns.net:8000/ifo26/0101/2857 
+#EXTINF:-1,XXX BUNGA BUNGA
+http://cem1.ddns.net:8000/ifo26/0101/2863 
+#EXTINF:-1,XXX JASMIN TV
+http://cem1.ddns.net:8000/ifo26/0101/2859 
+#EXTINF:-1,XXX STUDYO 69 1HD
+http://cem1.ddns.net:8000/ifo26/0101/2855 
+#EXTINF:-1,XXX SCT
+http://cem1.ddns.net:8000/ifo26/0101/2854 
+#EXTINF:-1,XXX ANDROTIK 8HD
+http://cem1.ddns.net:8000/ifo26/0101/2822 
+#EXTINF:-1,XXX ANDROTIK 3HD
+http://cem1.ddns.net:8000/ifo26/0101/2827
+#EXTINF:-1,[XX] Jasmin TV
+http://tv.factoryiptv.com:80/12345678/12345678/40305
+#EXTINF:-1,[XX] Playboy TV
+http://tv.factoryiptv.com:80/12345678/12345678/37061
+#EXTINF:-1,[XX] Playboy TV HD
+http://tv.factoryiptv.com:80/12345678/12345678/40749
+#EXTINF:-1,[XX] Sextreme
+http://tv.factoryiptv.com:80/12345678/12345678/37047
+#EXTINF:-1,[XX] Sexy Hot
+http://tv.factoryiptv.com:80/12345678/12345678/37009
+#EXTINF:-1,[XX] Venus
+http://tv.factoryiptv.com:80/12345678/12345678/37026
+#EXTINF:-1,[XX] ADULTO 1
+http://tv.factoryiptv.com:80/12345678/12345678/52276
+#EXTINF:-1,[XX] ADULTO 10
+http://tv.factoryiptv.com:80/12345678/12345678/52285
+#EXTINF:-1,[XX] ADULTO 2
+http://tv.factoryiptv.com:80/12345678/12345678/52277
+#EXTINF:-1,[XX] ADULTO 3
+http://tv.factoryiptv.com:80/12345678/12345678/52278
+#EXTINF:-1,[XX] ADULTO 4
+http://tv.factoryiptv.com:80/12345678/12345678/52279
+#EXTINF:-1,[XX] ADULTO 5
+http://tv.factoryiptv.com:80/12345678/12345678/52280
+#EXTINF:-1,[XX] ADULTO 6
+http://tv.factoryiptv.com:80/12345678/12345678/52281
+#EXTINF:-1,[XX] ADULTO 7
+http://tv.factoryiptv.com:80/12345678/12345678/52282
+#EXTINF:-1,[XX] ADULTO 8
+http://tv.factoryiptv.com:80/12345678/12345678/52283
+#EXTINF:-1,STC
+http://178.33.236.16:6212/live/alfa33/iiIa20VGUr/281.ts
+#EXTINF:-1,REdlight HD
+http://178.33.236.16:6212/live/alfa33/iiIa20VGUr/283.ts
+#EXTINF:-1,PINK O TV
+http://178.33.236.16:6212/live/alfa33/iiIa20VGUr/285.ts
+#EXTINF:-1,HUSTLER TV
+http://178.33.236.16:6212/live/alfa33/iiIa20VGUr/284.ts
+#EXTINF:-1,EXOTICA TV
+http://178.33.236.16:6212/live/alfa33/iiIa20VGUr/286.ts
+#EXTINF:-1,CENTOxCENTO
+http://178.33.236.16:6212/live/alfa33/iiIa20VGUr/282.ts
+#EXTINF:-1,Playboy TV FHD
+http://giantofthefuture.gleeze.com:8880/mNn4XaCCvk/BIeOMI91Mc/11093
+#EXTINF:-1,Playboy TV FHD [2]
+http://giantofthefuture.gleeze.com:8880/mNn4XaCCvk/BIeOMI91Mc/16298
+#EXTINF:-1,Playboy TV HD
+http://giantofthefuture.gleeze.com:8880/mNn4XaCCvk/BIeOMI91Mc/2045
+#EXTINF:-1,Playboy TV
+http://giantofthefuture.gleeze.com:8880/mNn4XaCCvk/BIeOMI91Mc/55
+#EXTINF:-1,Playboy TV [2]
+http://giantofthefuture.gleeze.com:8880/mNn4XaCCvk/BIeOMI91Mc/16300
+#EXTINF:-1,Sexy Hot
+http://giantofthefuture.gleeze.com:8880/mNn4XaCCvk/BIeOMI91Mc/2025
+#EXTINF:-1,Sexy Hot [2]
+http://giantofthefuture.gleeze.com:8880/mNn4XaCCvk/BIeOMI91Mc/34
+#EXTINF:-1,Sextreme
+http://giantofthefuture.gleeze.com:8880/mNn4XaCCvk/BIeOMI91Mc/2026
+#EXTINF:-1,Sextreme [2]
+http://giantofthefuture.gleeze.com:8880/mNn4XaCCvk/BIeOMI91Mc/35
+#EXTINF:-1,Venus
+http://giantofthefuture.gleeze.com:8880/mNn4XaCCvk/BIeOMI91Mc/2009
+#EXTINF:-1,Venus [2]
+http://giantofthefuture.gleeze.com:8880/mNn4XaCCvk/BIeOMI91Mc/1200
+#EXTINF:-1,HOT
+http://giantofthefuture.gleeze.com:8880/mNn4XaCCvk/BIeOMI91Mc/1204
 #EXTINF:-1,Hustler HD
-http://185.38.12.20:8088/hustler_hd/
-#EXTINF:-1,Korea m3u8 Ask TV
-http://edge2.everyon.tv/etv2/phd1005/HasBahCa.m3u8
-#EXTINF:-1,Korea m3u8 Livething Premium
-http://edge2.everyon.tv/etv2/phd1006/HasBahCa.m3u8
-#EXTINF:-1,Korea m3u8 Okadai
-http://edge2.everyon.tv/etv2/pld1003/HasBahCa.m3u8
-#EXTINF:-1,Korea m3u8 Okadai HD
-http://edge2.everyon.tv/etv2/phd1003/HasBahCa.m3u8
-#EXTINF:-1,Korea m3u8 Paradise TV
-http://edge2.everyon.tv/etv2/pld1008/HasBahCa.m3u8
-#EXTINF:-1,Korea rtmp Ask TV
-rtmp://edge2.everyon.tv/etv2/phd1005
-#EXTINF:-1,Korea rtmp Livething Premium
-rtmp://edge2.everyon.tv/etv2/phd1006
-#EXTINF:-1,Korea rtmp Okadai
-rtmp://edge2.everyon.tv/etv2/pld1003
-#EXTINF:-1,Korea rtmp Okadai HD
-rtmp://edge2.everyon.tv/etv2/phd1003
-#EXTINF:-1,Korea rtmp Paradise TV
-rtmp://edge2.everyon.tv/etv2/pld1008
-#EXTINF:-1,Olala
-http://hlsstr04.svc.iptv.rt.ru/hls/CH_OLALA/variant.m3u8?version=2
-#EXTINF:-1,RUS PRIVATE
-http://185.38.12.20:8088/private/
-#EXTINF:-1,Russian Night
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIANNIGHT/variant.m3u8?version=2
-#EXTINF:-1,Russian night
-http://185.38.12.20:8088/rusnoch/
-#EXTINF:-1,VOD
-http://cdn5.iviplanet.com:1935/VODLive2/_definst_/smil:vodlive2.smil/chunklist_w1867210504_b1300000.m3u8
-#EXTINF:-1,XXXLive 2
-http://cdn5.iviplanet.com:1935/VODLive2/_definst_/smil:vodlive2.smil/chunklist_b1300000.m3u8
-#EXTINF:-1,XXXLive 3
-http://cdn5.iviplanet.com:1935/VODLive3/_definst_/smil:vodlive3.smil/chunklist_b1200000.m3u8
-
-
-
-
-#EXTINF:-1,Arirang
-
-http://worldlive-ios.arirang.co.kr/arirang/arirangtvworldios.mp4.m3u8
-
-#EXTINF:-1,CTS
-
-http://ctsnanum.rtsp.vercoop.com:1935/CTS/_definst_/CTS_34312_100.sdp/hasbahca.m3u8
-
-#EXTINF:-1,CTS
-
-http://ctsnanum.rtsp.vercoop.com:1935/CTS/CTS_5689_200.sdp/hasbahca.m3u8
-
-#EXTINF:-1,CTS
-
-http://ctsnanum.rtsp.vercoop.com:1935/CTS/CTS_34312_200.sdp/hasbahca.m3u8
-
-#EXTINF:-1,everyon.tv 1013/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd1013/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 1014/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd1014/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 1019/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd1019/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 1025/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd1025/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 1027/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd1027/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 1043/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd1043/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 1046/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd1046/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 1053/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd1053/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 1058/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd1058/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 109/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd109/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 12/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd12/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 13/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd13/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 14/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd14/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 15/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd15/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 189/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd189/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 193/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd193/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 2/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd2/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 22/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd22/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 23/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd23/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 24/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd24/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 26/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd26/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 27/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd27/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 29/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd29/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 293/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd293/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 295/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd295/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 297/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd297/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 299/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd299/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 30/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd30/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 319/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd319/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 337/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd337/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 34/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd34/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 345/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd345/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 357/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd357/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 359/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd359/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 361/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd361/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 363/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd363/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 365/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd365/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 375/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd375/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 38/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd38/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 389/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd389/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 4/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd4/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 40/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd40/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 401/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd401/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 409/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd409/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 42/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd42/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 43/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd43/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 433/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd433/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 435/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd435/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 437/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd437/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 493/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd493/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 499/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd499/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 505/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd505/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 507/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd507/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 509/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd509/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 513/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd513/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 581/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd581/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 62/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd62/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 639/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd639/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 665/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd665/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 667/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd667/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 669/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd669/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 671/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd671/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 673/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd673/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 675/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd675/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 677/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd677/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 679/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd679/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 681/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd681/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 683/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd683/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 685/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd685/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 687/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd687/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 689/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd689/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 691/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd691/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 693/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd693/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 695/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd695/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 697/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd697/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 699/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd699/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 701/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd701/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 703/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd703/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 705/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd705/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 707/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd707/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 723/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd723/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 725/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd725/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 729/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd729/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 741/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd741/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 743/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd743/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 75/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd75/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 755/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd755/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 766/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd766/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 769/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd769/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 77/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd77/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 770/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd770/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 8/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd8/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 846/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd846/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 847/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd847/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 852/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd852/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 856/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd856/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 857/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd857/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 861/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd861/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 863/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd863/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 865/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd865/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 866/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd866/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 873/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd873/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 877/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd877/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 883/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd883/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 884/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd884/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 897/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd897/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 902/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd902/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 933/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd933/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 951/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd951/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 968/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd968/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 983/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd983/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 984/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd984/HasBahCa.m3u8
-
-#EXTINF:-1,everyon.tv 991/HasBahCa.m3u8
-
-http://edge2.everyon.tv/etv2/phd991/HasBahCa.m3u8
-
-#EXTINF:-1,KC
-
-http://122.202.129.136:1935/live/ch4/hasbahca.m3u8
-
-#EXTINF:-1,XXX m3u8 Ask TV
-
-http://edge2.everyon.tv/etv2/phd1005/HasBahCa.m3u8
-
-#EXTINF:-1,XXX m3u8 BUTGO
-
-http://edge2.everyon.tv/etv2/phd772/HasBahCa.m3u8
-
-#EXTINF:-1,XXX m3u8 BUTGO
-
-http://edge2.everyon.tv/etv2/pld772/HasBahCa.m3u8
-
-#EXTINF:-1,XXX m3u8 Cinero
-
-http://edge2.everyon.tv/etv2/phd59/HasBahCa.m3u8
-
-#EXTINF:-1,XXX m3u8 Delight Empire
-
-http://edge2.everyon.tv/etv2/phd63/HasBahCa.m3u8
-
-#EXTINF:-1,XXX m3u8 Girls TV
-
-http://edge2.everyon.tv/etv2/pld501/HasBahCa.m3u8
-
-#EXTINF:-1,XXX m3u8 Girls TV
-
-http://edge2.everyon.tv/etv2/phd501/HasBahCa.m3u8
-
-#EXTINF:-1,XXX m3u8 Honey
-
-http://edge2.everyon.tv/etv2/phd928/HasBahCa.m3u8
-
-#EXTINF:-1,XXX m3u8 Hot Movies
-
-http://edge2.everyon.tv/etv2/phd511/HasBahCa.m3u8
-
-#EXTINF:-1,XXX m3u8 J Hot Girl
-
-http://edge2.everyon.tv/etv2/pld59/HasBahCa.m3u8
-
-#EXTINF:-1,XXX m3u8 J Hot Girl HD
-
-http://edge2.everyon.tv/etv2/phd59/HasBahCa.m3u8
-
-#EXTINF:-1,XXX m3u8 Livething
-
-http://edge2.everyon.tv/etv2/phd64/HasBahCa.m3u8
-
-#EXTINF:-1,XXX m3u8 Livething Premium
-
-http://edge2.everyon.tv/etv2/phd1006/HasBahCa.m3u8
-
-#EXTINF:-1,XXX m3u8 Ohdeok
-
-http://edge2.everyon.tv/etv2/pld993/HasBahCa.m3u8
-
-#EXTINF:-1,XXX m3u8 Ohdeok HD
-
-http://edge2.everyon.tv/etv2/phd993/HasBahCa.m3u8
-
-#EXTINF:-1,XXX m3u8 Okadai
-
-http://edge2.everyon.tv/etv2/pld1003/HasBahCa.m3u8
-
-#EXTINF:-1,XXX m3u8 Okadai HD
-
-http://edge2.everyon.tv/etv2/phd1003/HasBahCa.m3u8
-
-#EXTINF:-1,XXX m3u8 Paradise TV
-
-http://edge2.everyon.tv/etv2/pld1008/HasBahCa.m3u8
-
-#EXTINF:-1,XXX m3u8 Penthouse
-
-http://edge2.everyon.tv/etv2/phd927/HasBahCa.m3u8
-
-#EXTINF:-1,XXX m3u8 Pink TV
-
-http://edge2.everyon.tv:80/etv2/phd62/HasBahCa.m3u8
-
-#EXTINF:-1,XXX m3u8 Plus TV
-
-http://edge2.everyon.tv/etv2/phd992/HasBahCa.m3u8
-
-#EXTINF:-1,XXX m3u8 Plus TV
-
-http://edge2.everyon.tv/etv2/pld501/HasBahCa.m3u8
-
-#EXTINF:-1,XXX m3u8 Sakura
-
-http://edge2.everyon.tv/etv2/pld61/HasBahCa.m3u8
-
-#EXTINF:-1,XXX m3u8 Sakura HD
-
-http://edge2.everyon.tv/etv2/phd61/HasBahCa.m3u8
-
-#EXTINF:-1,XXX m3u8 The O
-
-http://edge2.everyon.tv/etv2/phd771/HasBahCa.m3u8
-
-#EXTINF:-1,XXX rtmp Ask TV
-
-rtmp://edge2.everyon.tv/etv2/phd1005
-
-#EXTINF:-1,XXX rtmp BUTGO
-
-rtmp://edge2.everyon.tv/etv2/phd772
-
-#EXTINF:-1,XXX rtmp BUTGO
-
-rtmp://edge2.everyon.tv/etv2/pld772
-
-#EXTINF:-1,XXX rtmp Cinero
-
-rtmp://edge2.everyon.tv/etv2/phd59
-
-#EXTINF:-1,XXX rtmp Delight Empire
-
-rtmp://edge2.everyon.tv/etv2/phd63
-
-#EXTINF:-1,XXX rtmp Girls TV
-
-rtmp://edge2.everyon.tv/etv2/phd501
-
-#EXTINF:-1,XXX rtmp Girls TV
-
-rtmp://edge2.everyon.tv/etv2/pld501
-
-#EXTINF:-1,XXX rtmp Honey
-
-rtmp://edge2.everyon.tv/etv2/phd928
-
-#EXTINF:-1,XXX rtmp Hot Movies
-
-rtmp://edge2.everyon.tv/etv2/phd511
-
-#EXTINF:-1,XXX rtmp J Hot Girl
-
-rtmp://edge2.everyon.tv/etv2/pld59
-
-#EXTINF:-1,XXX rtmp J Hot Girl HD
-
-rtmp://edge2.everyon.tv/etv2/phd59
-
-#EXTINF:-1,XXX rtmp Livething
-
-rtmp://edge2.everyon.tv/etv2/phd64
-
-#EXTINF:-1,XXX rtmp Livething Premium
-
-rtmp://edge2.everyon.tv/etv2/phd1006
-
-#EXTINF:-1,XXX rtmp Ohdeok
-
-rtmp://edge2.everyon.tv/etv2/pld993
-
-#EXTINF:-1,XXX rtmp Ohdeok HD
-
-rtmp://edge2.everyon.tv/etv2/phd993
-
-#EXTINF:-1,XXX rtmp Okadai
-
-rtmp://edge2.everyon.tv/etv2/pld1003
-
-#EXTINF:-1,XXX rtmp Okadai HD
-
-rtmp://edge2.everyon.tv/etv2/phd1003
-
-#EXTINF:-1,XXX rtmp Paradise TV
-
-rtmp://edge2.everyon.tv/etv2/pld1008
-
-#EXTINF:-1,XXX rtmp Penthouse
-
-rtmp://edge2.everyon.tv/etv2/phd927
-
-#EXTINF:-1,XXX rtmp Pink TV
-
-rtmp://edge2.everyon.tv:80/etv2/phd62
-
-#EXTINF:-1,XXX rtmp Plus TV
-
-rtmp://edge2.everyon.tv/etv2/pld501
-
-#EXTINF:-1,XXX rtmp Plus TV
-
-rtmp://edge2.everyon.tv/etv2/phd992
-
-#EXTINF:-1,XXX rtmp Sakura
-
-rtmp://edge2.everyon.tv/etv2/pld61
-
-#EXTINF:-1,XXX rtmp Sakura HD
-
-rtmp://edge2.everyon.tv/etv2/phd61
-
-#EXTINF:-1,XXX rtmp The O
-
-rtmp://edge2.everyon.tv/etv2/phd771
-
-#EXTINF:-1,KBS JOY
-http://115.179.221.35:9981/stream/channelid/41658175
-#EXTINF:-1,KBS1
-http://115.179.221.35:9981/stream/channelid/1768548284
-#EXTINF:-1,UXN
-http://115.179.221.35:9981/stream/channelid/363779254
-#EXTINF:-1,홈&쇼핑
-http://115.179.221.35:9981/stream/channelid/1519818478
-#EXTINF:-1,******* TV-HD (Korean) 
-rtmp://111.118.21.77:1935/ptv3/phd497 
-#EXTINF:-1,J Hot Girl (Korean) 
-rtmp://111.118.21.75/ptv2/phd59 
-#EXTINF:-1,PlayboyTV (Korean) 
-rtmp://111.118.21.77:1935/ptv3/phd499 
-#EXTINF:-1,GirlTV (Korean) 
-rtmp://111.118.21.76:1935/ptv/phd501 
-#EXTINF:-1,Okadai (Korean) 
-rtmp://111.118.21.77:1935/ptv3/phd61 
-#EXTINF:-1,Midnight (Korean) 
-rtmp://111.118.21.75:1935/ptv2/phd766 
-#EXTINF:-1,:The O (Korean) 
-rtmp://111.118.21.77:1935/ptv3/phd771 
-#EXTINF:-1,:But Go (Korean) 
-rtmp://111.118.21.76:1935/ptv/phd772 
-#EXTINF:-1,RLAYY19 + (Korean) 
-rtmp://111.118.21.77:1935/ptv3/phd769 
-#EXTINF:-1,Pink TV (Korean) 
-rtmp://111.118.21.75/ptv2/phd62 
-#EXTINF:-1,CR ON (Korean) 
-rtmp://111.118.21.75/ptv2/phd60 
-#EXTINF:-1,VIKI ENJOY (Korean) 
-rtmp://111.118.21.75:1935/ptv2/phd765
-
-#EXTINF:0,XXL
-http://dt3zwsgl95oj4.cloudfront.net/live2/xxl.smil/manifest.m3u8
-#EXTINF:0,Dorcel
-http://dt3zwsgl95oj4.cloudfront.net/live2/dorceltv.smil/manifest.m3u8
-#EXTINF:0,?????? ????
-http://iptv.multi-net.ru:80/udp/239.255.4.1:1234
-#EXTINF:0,TV ??????? ????
-http://iptv.multi-net.ru:80/udp/239.255.4.2:1234
-#EXTINF:0,FRENCHLOVER
-http://iptv.multi-net.ru:80/udp/239.255.4.4:1234
-#EXTINF:0,????????? ??
-http://iptv.multi-net.ru:80/udp/239.255.4.5:1234
-#EXTINF:0,O-la-la!
-http://iptv.multi-net.ru:80/udp/239.255.4.6:1234
-#EXTINF:0,Brazzers TV Europe
-http://iptv.multi-net.ru:80/udp/239.255.4.7:1234
-#EXTINF:0,tv france
-http://dt3zwsgl95oj4.cloudfront.net/live2/xxl.smil/manifest.m3u8
-#EXTINF:0,Dorcel +18
-http://dt3zwsgl95oj4.cloudfront.net/live2/dorceltv.smil/manifest.m3u8
-#EXTINF:0,Ero XXX
-http://91.216.173.148:4073/u
-#EXTINF:0,Ero X HD
-http://91.216.173.148:4074/i
-#EXTINF:0,Ero XXX
-http://gg.gg/39233
-#EXTINF:0,Ero XX
-http://gg.gg/3925a
-#EXTINF:0,Bella Club
-rtsp://46.249.213.87/broadcast/bellaluz-tablet.3gp
-#EXTINF:0,BRAZZERS
-http://80.87.146.133:1111/udp/230.3.4.121:5678
-#EXTINF:0,CS Sex +18 ADULT mmsh
-mmsh://tv.webmisto.cz:7000
-#EXTINF:0,DLDVS 1
-http://208.122.3.2:9000
-#EXTINF:0,DLDVS 2
-http://208.122.3.2:8700
-#EXTINF:0,DLDVS 3
-http://208.122.3.2:9500
-#EXTINF:0,DORCEL
-http://213.202.73.254:443/udp/232.50.31.66:1234
-#EXTINF:0,FILMON - Black
-rtmp://live190.la3.origin.filmon.com:8086/live/244.high.stream
-#EXTINF:0,FILMON - Filthon1
-rtmp://live190.la3.origin.filmon.com:8086/live/247.high.stream
-#EXTINF:0,FILMON - Filthon2
-rtmp://live190.la3.origin.filmon.com:8086/live/245.high.stream
-#EXTINF:0,FILMON - Filthon3
-rtmp://live190.la3.origin.filmon.com:8086/live/246.high.stream
-#EXTINF:0,frenГ§lover
-http://213.202.73.254:443/udp/232.50.100.111:1234
-#EXTINF:0,FRENГ‡LOVER
-http://213.202.73.254:443/udp/232.50.31.68:1234
-#EXTINF:0,FRENГ‡LOVER
-http://213.202.73.254:443/udp/232.50.32.68:1234
-#EXTINF:0,FRENCHLOVER
-http://80.87.146.133:1111/udp/230.3.4.150:5678
-#EXTINF:0,HALLOTV
-http://83.169.58.38:1935/live/HalloTV1/playlist.m3u8
-#EXTINF:0,HQ Amateurs
-http://galsflv.videosz.com//mom-and-the-pop_5/videosz-mom-and-the-pop-53.flv
-#EXTINF:0,Korea 18+++(HD)
-rtmp://lm07.everyon.tv/ptv7/phd1005
-#EXTINF:0,Korea BUTGOTO
-rtmp://lm07.everyon.tv/ptv7/phd772
-#EXTINF:0,Korea DeilghtEmpire
-rtmp://lm07.everyon.tv/ptv7/phd63
-#EXTINF:0,Korea GiRL
-rtmp://lm07.everyon.tv/ptv7/phd501
-#EXTINF:0,Korea HONEY
-rtmp://lm07.everyon.tv/ptv7/phd928
-#EXTINF:0,Korea HOTGiRL
-rtmp://lm07.everyon.tv/ptv7/phd59
-#EXTINF:0,Korea JAV TV(HD)
-rtmp://lm07.everyon.tv:1935/ptv7/phd1003
-#EXTINF:0,Korea LiVETRiNG
-rtmp://lm07.everyon.tv/ptv7/phd64
-#EXTINF:0,Korea MiDNiGHT
-rtmp://lm07.everyon.tv/ptv7/phd766
-#EXTINF:0,Korea OKADAi
-rtmp://lm07.everyon.tv/ptv7/phd61
-#EXTINF:0,Korea Paradise(HD)
-rtmp://lm07.everyon.tv/ptv7/phd1008
-#EXTINF:0,Korea PENTHOUSE
-rtmp://lm07.everyon.tv/ptv7/phd927
-#EXTINF:0,Korea PiNK
-rtmp://lm07.everyon.tv:1935/ptv7/phd62
-#EXTINF:0,Korea Playboy
-rtmp://lm07.everyon.tv/ptv7/phd499
-#EXTINF:0,Korea PLAYY
-rtmp://lm07.everyon.tv/ptv7/phd769
-#EXTINF:0,Korea Red On
-rtmp://lm07.everyon.tv/ptv7/phd60
-#EXTINF:0,Korea South Korea 511
-rtmp://lm07.everyon.tv/ptv7/phd511
-#EXTINF:0,Korea South Korea 765
-rtmp://lm07.everyon.tv/ptv7/phd765
-#EXTINF:0,Korea THE O
-rtmp://lm07.everyon.tv/ptv7/phd771
-#EXTINF:0,O-la-la
-http://188.138.9.234:8118
-#EXTINF:0,Playboy Tv 23-05-ig
-http://tinyurl.hu/gE4J/
-#EXTINF:0,Red Light Central TV CHAT 1 +16 ADULT
-rtsp://46.249.213.87/broadcast/redlight-1-tablet.3gp
-#EXTINF:0,Red Light Central TV CHAT 3 +16 ADULT
-rtsp://46.249.213.87/broadcast/redlight-3-tablet.3gp
-#EXTINF:0,REDLIGHT HD
-http://213.110.137.87:4022/udp/239.10.0.240:1234
-#EXTINF:0,RLC2 CHAT +16 ADULT
-rtsp://46.249.213.87/broadcast/redlight-2-tablet.3gp
-#EXTINF:0,R-NiGHT
-http://80.87.146.133:1111/udp/230.3.4.110:5678
-#EXTINF:0,SexTv3
-http://tinyurl.hu/OKVt/
-#EXTINF:0,ViSiTX
-rtmp://194.116.150.47/live/visitx.stream1
-#EXTINF:0,XXX Music
-http://zazax1.ru/video/basstr.flv
-
-
-Propose file changeCommit summaryOptional extended description
-
-Propose file changeCancel
-
-© 2020 GitHub, Inc.TermsPrivacySecurityStatusHelpContact GitHubPricingAPITrainingBlogAbout
-
-
+http://giantofthefuture.gleeze.com:8880/mNn4XaCCvk/BIeOMI91Mc/1205
+#EXTINF:-1,Hustler TV
+http://giantofthefuture.gleeze.com:8880/mNn4XaCCvk/BIeOMI91Mc/4917
+#EXTINF:-1,Penthouse HD2 FHD
+http://giantofthefuture.gleeze.com:8880/mNn4XaCCvk/BIeOMI91Mc/4919
+#EXTINF:-1,Penthouse
+http://giantofthefuture.gleeze.com:8880/mNn4XaCCvk/BIeOMI91Mc/4918
+#EXTINF:-1,Penthouse HD1
+http://giantofthefuture.gleeze.com:8880/mNn4XaCCvk/BIeOMI91Mc/1202
+#EXTINF:-1,Redlight FHD
+http://giantofthefuture.gleeze.com:8880/mNn4XaCCvk/BIeOMI91Mc/1201
+#EXTINF:-1,Dusk
+http://giantofthefuture.gleeze.com:8880/mNn4XaCCvk/BIeOMI91Mc/1206
+#EXTINF:-1,PinkoTV
+http://giantofthefuture.gleeze.com:8880/mNn4XaCCvk/BIeOMI91Mc/4939
+#EXTINF:-1,Dorcel HD
+http://giantofthefuture.gleeze.com:8880/mNn4XaCCvk/BIeOMI91Mc/1203
+
+
+#EXTINF:-1,O-la-la
+http://79.133.121.124:999/udp/239.191.254.161:15285
+#EXTINF:-1,Русская Ночь
+http://79.133.121.124:999/udp/239.191.254.13:15285
+#EXTINF:-1,Free X TV
+http://79.133.121.124:999/udp/239.191.254.38:15285
+#EXTINF:-1,Candyman
+http://79.133.121.124:999/udp/239.191.254.114:15285
+#EXTINF:-1,Candy TV
+http://79.133.121.124:999/udp/239.191.254.173:15285
+#EXTINF:-1,NUART TV HD
+http://79.133.121.124:999/udp/239.191.254.250:15285
+#EXTINF:-1,FrenchLover TV
+http://79.133.121.124:999/udp/239.191.254.251:15285
+#EXTINF:-1,Brazzers TV Europe [rus-iptv.ru]
+http://79.133.121.124:999/udp/239.191.254.170:15285
+#EXTINF:-1,EROX
+http://79.133.121.124:999/udp/239.191.255.6:15285
+#EXTINF:-1,Exxxotica HD
+http://79.133.121.124:999/udp/239.191.254.73:15285
+#EXTINF:-1,MILF
+http://live.redtraffic.xyz/milf.m3u8
+#EXTINF:-1,Big Dick
+http://live.redtraffic.xyz/bigdick.m3u8
+#EXTINF:-1,Big Tits
+http://live.redtraffic.xyz/bigtits.m3u8
+#EXTINF:-1,Fetish
+http://live.redtraffic.xyz/fetish.m3u8
+#EXTINF:-1,Pornstar
+http://live.redtraffic.xyz/pornstar.m3u8
+#EXTINF:-1,Big Ass
+http://live.redtraffic.xyz/bigass.m3u8
+#EXTINF:-1,Interracial
+http://live.redtraffic.xyz/interracial.m3u8
+#EXTINF:-1,Latina
+http://live.redtraffic.xyz/latina.m3u8
+#EXTINF:-1,POV [rus-iptv.ru]
+http://live.redtraffic.xyz/pov.m3u8
+#EXTINF:-1,Blowjob
+http://live.redtraffic.xyz/blowjob.m3u8
+#EXTINF:-1,Teen
+http://live.redtraffic.xyz/teen.m3u8
+#EXTINF:-1,Hardcore
+http://live.redtraffic.xyz/hardcore.m3u8
+#EXTINF:-1,Cuckold
+http://live.redtraffic.xyz/cuckold.m3u8
+#EXTINF:-1,Threesome
+http://live.redtraffic.xyz/threesome.m3u8
+#EXTINF:-1,Russian [rus-iptv.ru]
+http://live.redtraffic.xyz/russian.m3u8
+#EXTINF:-1,Lesbian
+http://live.redtraffic.xyz/lesbian.m3u8
+#EXTINF:-1,Private TV HD
+http://95.67.12.126:9135
+#EXTINF:-1,Redlight HD
+http://95.67.12.126:9136
+#EXTINF:-1,Hustler HD
+http://95.67.12.126:9137
+#EXTINF:-1,SCT
+http://95.67.12.126:9138
+#EXTINF:-1,Dorcel TV HD
+http://95.67.12.126:9139
+#EXTINF:-1,https://rus-iptv.ru
+https://rus-iptv.ru/wp-content/uploads/2018/11/tv-logo.png
+
+#EXTINF:0,BSX 24 (18+)
+rtsp://publish.thewebstream.co:1935/bsx24/_definst_/mpegts1.stream
+#EXTINF:0,Babestation (18+)
+http://publish.thewebstream.co:1935/cellcast/encoder22/playlist.m3u8
+#EXTINF:0,Babestation 2 (18+)
+http://publish.thewebstream.co:1935/iptv_cellcast_24/livestream_two2/playlist.m3u8
+#EXTINF:0,Babestation Blue (18+)
+http://publish.thewebstream.co:1935/cellcast/encoder32/playlist.m3u8
+#EXTINF:0,Babestation Xtra (18+)
+http://publish.thewebstream.co:1935/cellcast/encoder72/playlist.m3u8
+#EXTINF:0,But Go (18+)
+http://main2sb.everyon.tv:1935/etv2sb/pld10772/HasBahCa.m3u8
+#EXTINF:0,Candy (18+)
+http://cdn-01.bonus-tv.ru/btv/candy/type/user/devname/LG-SmartTV/devid/LG-1469816054/eol/20200101T0000/hash/e822f177cb4785c93f7b0a50a3534432478f512b/track_2_1000/playlist.m3u8
+#EXTINF:0,Dollhouse Cam 1 (18+)
+rtmp://216.105.165.72:1941/stream9/live
+#EXTINF:0,Dollhouse Cam 2 (18+)
+rtmp://216.105.165.72:1939/stream7/live
+#EXTINF:0,Dollhouse Cam 3 (18+)
+rtmp://216.105.165.72:1940/stream8/live
+#EXTINF:0,Foxxbabes (18+)
+http://publish.thewebstream.co:1935/leved/foxxxbabes/playlist.m3u8
+#EXTINF:0,Girls (18+)
+http://123.108.164.70/etv2sb/phd10501/playlist.m3u8
+#EXTINF:0,HOT AND WET (18+)
+http://publish.thewebstream.co:1935/leved/_definst_/hotandwet1/playlist.m3u8
+#EXTINF:0,Jasmin TV (18+)
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
+#EXTINF:0,Jasmin TV HD (18+)
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+#EXTINF:0,Live Sex Latinas (18+)
+http://publish.thewebstream.co:1935/leved/_definst_/livesexlatinas/playlist.m3u8
+#EXTINF:0,LIVETing TV (18+)
+http://main2sb.everyon.tv:1935/etv2sb/pld10062/HasBahCa.m3u8
+#EXTINF:0,Okadai TV (18+)
+http://main2sb.everyon.tv:1935/etv2sb/pld10499/HasBahCa.m3u8
+#EXTINF:0,Penthouse Asia (18+)
+http://main1sb.everyon.tv:1935/etv1sb/pld10927/HasBahCa.m3u8
+#EXTINF:0,Play (18+)
+http://123.108.164.70/etv2sb/phd10769/playlist.m3u8
+#EXTINF:0,Playboy Asia (18+)
+http://main1sb.everyon.tv:1935/etv1sb/pld10497/HasBahCa.m3u8
+#EXTINF:0,Playboy TV Chat 1 (18+)
+http://publish.thewebstream.co:1935/rlc/_definst_/livestream1/playlist.m3u8
+#EXTINF:0,Playboy TV Chat 2 (18+)
+http://publish.thewebstream.co:1935/rlc/_definst_/livestream_two1/playlist.m3u8
+#EXTINF:0,STUDIO 66 TV (18+)
+http://publish.thewebstream.co:1935/leved/studio66tv_channel11/chunklist.m3u8
+#EXTINF:0,STUDIO 66 TV 2 (18+)
+http://publish.thewebstream.co:1935/leved/studio66tv_channel21/chunklist.m3u8
+#EXTINF:0,STUDIO 66 TV 3 (18+)
+http://publish.thewebstream.co:1935/leved/studio66tv_channel31/chunklist.m3u8
+#EXTINF:0,STUDIO 66 TV 4 (18+)
+http://publish.thewebstream.co:1935/leved/studio66tv_channel41/chunklist.m3u8
+#EXTINF:0,Sexy Sat Arab. (18+)
+http://81.89.48.215:1935/xyz888wkz/xy8/playlist.m3u8
+#EXTINF:0,Sexy Sat Arab 2 (18+)
+http://81.89.48.215:1935/xyz222wkz/xyz222wkz.stream_360p/playlist.m3u8
+#EXTINF:0,Sexy Sat Satview (18+)
+http://81.89.48.215:1935/xyz112wkz/xy112_360p/playlist.m3u8
+#EXTINF:0,Sexy Sat Europe (18+)
+http://81.89.48.215:1935/xyz444wkz/xy4_360p/playlist.m3u8
+#EXTINF:0,Sexy Sat 1 (18+)
+http://81.89.48.215:1935/xyz666wkz/xy6/playlist.m3u8
+#EXTINF:0,Sexy Sat 2 (18+)
+http://81.89.48.215:1935/xyz555wkz/xy5/playlist.m3u8
+#EXTINF:0,Sexy Sat 3 (18+)
+http://81.89.48.215:1935/xyz777wkz/xy777/playlist.m3u8
+#EXTINF:0,Sexy Sat Brasil (18+)
+http://81.89.48.215:1935/xyz111wkz/xy111_360p/playlist.m3u8
+#EXTINF:0,THE O (18+)
+http://123.108.164.70/etv2sb/phd10771/playlist.m3u8
+#EXTINF:0,VISIT-X TV (18+)
+http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
+#EXTINF:0,XXXPanded 1 (18+)
+http://vod2t.xxxpanded.com/x3tv/index_wlan.m3u8
+#EXTINF:0,XXXPanded 2 (18+)
+http://vod2t.xxxpanded.com/x3tv2/index_wlan.m3u8
+#EXTINF:0,Playboy TV (18+)
+http://4BA9EBDB07C05883:@t.kraslan.ru/playboy
+#EXTINF:0,Brazzers TV Europe (18+)
+http://4BA9EBDB07C05883:@t.kraslan.ru/brazzers
+#EXTINF:0,Hustler HD (18+)
+http://0E9B00ECD326CCAC:@t.kraslan.ru/hustlerhd
+#EXTINF:0,XXX Asia (18+)
+http://211.22.61.109/stc/ch168171.m3u8
+#EXTINF:0,Amazing TV (18+)
+http://211.22.61.109/stc/ch168172.m3u8
+#EXTINF:0,Banana (18+)
+http://211.22.61.109/stc/ch168173.m3u8
+#EXTINF:0,=== http://hls2.slynet.pw/slynetfreestartpromo?.m3u8
+#EXTINF:0,ASIA XXX 1
+http://69.46.75.107/files/videos/140747456300c03.flv
+#EXTINF:0,ASIA XXX 2
+http://69.46.75.107/files/videos/1410962219b8929.flv
+#EXTINF:0,ASIA XXX 3
+http://69.46.75.107/files/videos/141188120614378.flv
+#EXTINF:0,ASIA XXX 4
+http://69.46.75.107/files/videos/141344498070660.flv
