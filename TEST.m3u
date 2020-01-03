@@ -1027,3 +1027,17 @@ http://204.45.182.172:26789/i/ghjnvq5o/8jainsbq/index.m3u8?fluxustv.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6wjMqzM.png" group-title="24/7 XCAFE TV",XCafe 9 (New!)
 http://204.45.182.172:26789/i/ghjnvq5o/v19a2133/index.m3u8?fluxustv.m3u8
+
+
+
+
+
+
+#EXTM3U#EXTINF:-1,NVX MEDIA 1
+https://cdn1.ibizastream.biz:441/free/1/playlist_dvr.m3u8
+#EXTINF:-1,NVX MEDIA 2
+https://cdn1.ibizastream.biz:441/free/2/playlist_dvr.m3u8
+#EXTINF:-1,NVX MEDIA 1
+https://cdn1.ibizastream.biz:441/free/Stream1/chunks.m3u8
+#EXTINF:-1,NVX MEDIA 2
+https://cdn1.ibizastream.biz:441/free/Stream2/chunks.m3u8
