@@ -1287,3 +1287,27 @@ http://115.179.221.35:9981/stream/channelid/1768548284
 http://115.179.221.35:9981/stream/channelid/363779254
 #EXTINF:-1,홈&쇼핑
 http://115.179.221.35:9981/stream/channelid/1519818478
+#EXTINF:-1,******* TV-HD (Korean) 
+rtmp://111.118.21.77:1935/ptv3/phd497 
+#EXTINF:-1,J Hot Girl (Korean) 
+rtmp://111.118.21.75/ptv2/phd59 
+#EXTINF:-1,PlayboyTV (Korean) 
+rtmp://111.118.21.77:1935/ptv3/phd499 
+#EXTINF:-1,GirlTV (Korean) 
+rtmp://111.118.21.76:1935/ptv/phd501 
+#EXTINF:-1,Okadai (Korean) 
+rtmp://111.118.21.77:1935/ptv3/phd61 
+#EXTINF:-1,Midnight (Korean) 
+rtmp://111.118.21.75:1935/ptv2/phd766 
+#EXTINF:-1,:The O (Korean) 
+rtmp://111.118.21.77:1935/ptv3/phd771 
+#EXTINF:-1,:But Go (Korean) 
+rtmp://111.118.21.76:1935/ptv/phd772 
+#EXTINF:-1,RLAYY19 + (Korean) 
+rtmp://111.118.21.77:1935/ptv3/phd769 
+#EXTINF:-1,Pink TV (Korean) 
+rtmp://111.118.21.75/ptv2/phd62 
+#EXTINF:-1,CR ON (Korean) 
+rtmp://111.118.21.75/ptv2/phd60 
+#EXTINF:-1,VIKI ENJOY (Korean) 
+rtmp://111.118.21.75:1935/ptv2/phd765
