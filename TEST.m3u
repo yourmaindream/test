@@ -1279,3 +1279,11 @@ rtmp://edge2.everyon.tv/etv2/phd61
 
 rtmp://edge2.everyon.tv/etv2/phd771
 
+#EXTINF:-1,KBS JOY
+http://115.179.221.35:9981/stream/channelid/41658175
+#EXTINF:-1,KBS1
+http://115.179.221.35:9981/stream/channelid/1768548284
+#EXTINF:-1,UXN
+http://115.179.221.35:9981/stream/channelid/363779254
+#EXTINF:-1,홈&쇼핑
+http://115.179.221.35:9981/stream/channelid/1519818478
