@@ -12,21 +12,9 @@ http://5a2a51fc4cfde.streamlock.net:1935/lfh/_definst_/Stream2/playlist.m3u8
 #EXTGRP:XXX
 http://5a2a51fc4cfde.streamlock.net:1935/lfh/_definst_/Stream3/playlist.m3u8
 
-#EXTINF:-1 group-title="XXX",2001 LIVE-Веб камера 1 (18+)
-#EXTGRP:XXX
-http://5964ed3e60741.streamlock.net:1935/2001edge/2001DR_RTSP.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="XXX",2001 LIVE-Веб камера 2 (18+)
-#EXTGRP:XXX
-http://5964ed3e60741.streamlock.net:1935/2001edge/2001MS_RTSP.stream/playlist.m3u8
-
 #EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/mR1I8hE.png",A3Bikini TV  (18+)
 #EXTGRP:XXX
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 group-title="XXX", Alba XXX 1 (18+)
-#EXTGRP:XXX
-http://iptvtool.es:9977/Elisabetpoligono//EJYVatNwQQ/100253
 
 #EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/zX6fCMT.png" tvg-country="INT" tvg-language="English",AST TV 1 (18+)
 #EXTGRP:XXX
@@ -68,22 +56,6 @@ https://www.ast.tv/stream/2/ultra.m3u8
 #EXTGRP:XXX
 http://90.188.116.62:4321/udp/225.54.53.92:5000
 
-#EXTINF:-1 group-title="XXX",Babestation 1 (18+)
-#EXTGRP:XXX
-http://ss3.firestormmedia.tv:1935/cellcast2/smil:encoder3.smil/chunklist_b1500000.m3u8
-
-#EXTINF:-1 group-title="XXX",Babestation 2 (18+)
-#EXTGRP:XXX
-http://ss3.firestormmedia.tv:1935/cellcast2/smil:encoder2.smil/chunklist_b1500000.m3u8
-
-#EXTINF:-1 group-title="XXX",Babestation 3 (18+)
-#EXTGRP:XXX
-http://ss3.firestormmedia.tv:1935/cellcast2/smil:encoder7.smil/chunklist_b1500000.m3u8
-
-#EXTINF:-1 group-title="XXX",Babestation 4 (18+)
-#EXTGRP:XXX
-http://ss3.firestormmedia.tv:1935/cellcast2/smil:encoder5.smil/chunklist_b1500000.m3u8
-
 #EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/AHHE8Rt.png" tvg-country="DE" tvg-language="German",Babestation 24 (18+)
 #EXTGRP:XXX
 http://sdn-global-live-http-cache.3qsdn.com/live/_definst_/amlst:9528-mbr/chunklist_b1728000.m3u8
@@ -96,20 +68,13 @@ https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/amlst:9528-mbr/chunk
 #EXTGRP:XXX
 http://sdn-global-live-http-cache.3qsdn.com/live/_definst_/amlst:9528-mbr/chunklist.m3u8
 
-#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/AHHE8Rt.png" tvg-country="DE" tvg-language="German",Babestation 24 (18+)
-#EXTGRP:XXX
-http://de-origin-live.3qsdn.com:1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8
-
 #EXTINF: -1 group-title="XXX", Babestation Xtreme (18+)
 #EXTGRP:XXX
 http://publish.firestormmedia.tv:1935/bsx24/livestream/playlist.m3u8
-#EXTINF:-1 group-title="XXX" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/108.png" tvg-name="Barely Legal TV",Barely Legal TV (18+)
-#EXTGRP:XXX
-http://194.28.155.68:81/udp/225.0.55.235:1234
 
 #EXTINF:-1 group-title="XXX" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/108.png" tvg-name="Barely Legal TV",Barely Legal TV (18+)
 #EXTGRP:XXX
-http://486032Vir.melpakomn.ru/iptv/WY7ZG2Z6XFDMMQ/871/index.m3u8
+http://194.28.155.68:81/udp/225.0.55.235:1234
 
 #EXTINF:-1 group-title="XXX" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/109.png" tvg-name="Blue Hustler Europe",Blue Hustler Europe (18+)
 #EXTGRP:XXX
@@ -122,10 +87,6 @@ http://178.124.183.5/hls/CH_BLUEHUSTLER/variant.m3u8?version=2
 #EXTINF:-1 group-title="XXX" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/109.png" tvg-name="Blue Hustler Europe",Blue Hustler Europe (18+)
 #EXTGRP:XXX
 http://178.124.183.14:80/hls/CH_BLUEHUSTLER/variant.m3u8
-
-#EXTINF:-1 group-title="XXX" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/109.png" tvg-name="Blue Hustler Europe",Blue Hustler Europe (18+)
-#EXTGRP:XXX
-http://9cc8074b.melpakomn.ru/iptv/ZGUA5RKA46DPDQ/1064/index.m3u8
 
 #EXTINF:-1 group-title="XXX" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/100.png" tvg-name="Brazzers TV",Brazzers TV (18+)
 #EXTGRP:XXX
@@ -167,37 +128,13 @@ http://46.8.133.185:999/udp/239.191.254.114:15285
 #EXTGRP:XXX
 http://46.8.132.23:81/udp/239.191.254.114:15285
 
-#EXTINF:-1 group-title="XXX",Camera HD (18+)
-#EXTGRP:XXX
-https://5964ed3e60741.streamlock.net/2001edge/2001MS_RTSP.stream/.m3u8
-
-#EXTINF:-1 group-title="XXX",Camera HD (18+)
-#EXTGRP:XXX
-https://5964ed3e60741.streamlock.net/2001edge/2001DR_RTSP.stream/.m3u8
-
-#EXTINF:-1 group-title="XXX",Dorcel (18+)
-#EXTGRP:XXX
-http://tv.fast-iptv.info:12974/live/l0Jvklidcd/PZCpLDhfyF/340.ts
-
 #EXTINF:-1 group-title="XXX",Dorcel (18+)
 #EXTGRP:XXX
 http://188.35.9.11:21141/udp/214h
 
 #EXTINF:-1 group-title="XXX" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/138.png" tvg-name="Dorcel TV HD",Dorcel TV HD (18+)
 #EXTGRP:XXX
-http://cooltv.dyndns.tv:8200/udp/239.255.1.204:1234
-
-#EXTINF:-1 group-title="XXX" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/138.png" tvg-name="Dorcel TV HD",Dorcel TV HD (18+)
-#EXTGRP:XXX
-http://95.67.12.126:9139
-
-#EXTINF:-1 group-title="XXX" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/138.png" tvg-name="Dorcel TV HD",Dorcel TV HD (18+)
-#EXTGRP:XXX
 http://188.35.9.9:21141/udp/214h
-
-#EXTINF:-1 group-title="XXX" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/138.png" tvg-name="Dorcel TV HD",Dorcel TV HD (18+)
-#EXTGRP:XXX
-http://iptvtool.es:9977/Elisabetpoligono//EJYVatNwQQ/100257
 
 #EXTINF:-1 group-title="XXX",Erotic 1 (18+)
 #EXTGRP:XXX
@@ -289,27 +226,7 @@ http://cooltv.dyndns.tv:8200/udp/239.255.4.206:1234
 
 #EXTINF:-1 group-title="XXX",Hustler HD (18+)
 #EXTGRP:XXX
-http://46.32.68.167/s/live/705/86.169.51.136/1/0.m3u8
-
-#EXTINF:-1 group-title="XXX",Hustler HD (18+)
-#EXTGRP:XXX
-http://193.9.60.131:8000/play/a028/index.m3u8
-
-#EXTINF:-1 group-title="XXX",Hustler HD (18+)
-#EXTGRP:XXX
 http://217.25.216.4:8085/udp/238.2.18.80:1234
-
-#EXTINF:-1 group-title="XXX",Hustler HD (18+)
-#EXTGRP:XXX
-http://cooltv.dyndns.tv:8200/udp/239.255.1.202:1234
-
-#EXTINF:-1 group-title="XXX",Hustler HD (18+)
-#EXTGRP:XXX
-http://95.67.12.126:9137
-
-#EXTINF:-1 group-title="XXX",Hustler HD (18+)
-#EXTGRP:XXX
-http://iptvtool.es:9977/Elisabetpoligono//EJYVatNwQQ/100262
 
 #EXTINF:-1 group-title="XXX" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/150.png" tvg-name="Hustler HD Europe",Hustler HD Europe (18+)
 #EXTGRP:XXX
@@ -327,49 +244,9 @@ http://86.243.94.135:8000/play/a0cw/index.m3u8
 #EXTGRP:XXX
 http://54.39.158.38:8080/khLFoyOrk3/BaeeCyuCEv/15193
 
-#EXTINF:-1 group-title="XXX" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/197.png" tvg-name="HotClub 2 FHD Adult",HotClub 2 FHD Adult (18+)
-#EXTGRP:XXX
-http://185.93.3.67:80/live/Zn3UgNxZq77/6qYGad7c50/7685.m3u8
-
-#EXTINF: -1 group-title="XXX" tvg-logo="https://i.imgur.com/KJm7i78.png" tvg-country="INT" tvg-language="English" tvg-country="INT",Jasmin TV (SD) (18+)
-#EXTGRP:XXX
-http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
-
-#EXTINF: -1 group-title="XXX" tvg-logo="https://i.imgur.com/KJm7i78.png" tvg-country="INT" tvg-language="English" tvg-country="INT",Jasmin TV (SD) (18+)
-#EXTGRP:XXX
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8
-
-#EXTINF: -1 group-title="XXX" tvg-logo="https://i.imgur.com/KJm7i78.png" tvg-country="INT" tvg-language="English" tvg-country="INT",Jasmin TV (SD) (18+)
-#EXTGRP:XXX
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
-
-#EXTINF: -1 group-title="XXX" tvg-logo="https://i.imgur.com/KJm7i78.png" tvg-country="INT" tvg-language="English" tvg-country="INT",Jasmin TV (SD) (18+)
-#EXTGRP:XXX
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/chunklist_w513145911.m3u8
-
-#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/KJm7i78.png" tvg-country="INT" tvg-language="English" tvg-country="INT",Jasmin TV HD (18+)
+#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/KJm7i78.png" tvg-country="INT" tvg-language="English" tvg-country="INT" tvg-name="Jasmin TV",Jasmin TV (18+)
 #EXTGRP:XXX
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/KJm7i78.png" tvg-country="INT" tvg-language="English" tvg-country="INT",Jasmin TV HD (18+)
-#EXTGRP:XXX
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w934179313.m3u8
-
-#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/KJm7i78.png" tvg-country="INT" tvg-language="English" tvg-country="INT",Jasmin TV HD (18+)
-#EXTGRP:XXX
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w815696992.m3u8
-
-#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/KJm7i78.png" tvg-country="INT" tvg-language="English" tvg-country="INT",Jasmin TV HD (18+)
-#EXTGRP:XXX
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1770948941.m3u8
-
-#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/KJm7i78.png" tvg-country="INT" tvg-language="English" tvg-country="INT",Jasmin TV HD (18+)
-#EXTGRP:XXX
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1639491303.m3u8
-
-#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/KJm7i78.png" tvg-country="INT" tvg-language="English" tvg-country="INT",Jasmin TV HD (18+)
-#EXTGRP:XXX
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1190948669.m3u8
 
 #EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/3vf53u4.png" tvg-language="Korean" tvg-country="KR",Korean Adult TV (18+)
 #EXTGRP:XXX
@@ -423,25 +300,13 @@ https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w577650521_b
 #EXTGRP:XXX
 http://112.148.183.161:9981/stream/channelid/96001658
 
-#EXTINF:-1 group-title="XXX",Nu Art (18+)
-#EXTGRP:XXX
-http://46.32.68.167/s/live/711/86.169.51.136/1/0.m3u8
-
 #EXTINF:-1 group-title="XXX" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/140.png" tvg-name="Nuart TV",Nuart TV (18+)
-#EXTGRP:XXX
-http://persik.tv/stream/1017/402000/10003.m3u8
-
-#EXTINF:-1 group-title="XXX",Nuart TV (18+)
 #EXTGRP:XXX
 http://178.124.183.5/hls/CH_NYARTTV/variant.m3u8?version=2
 
-#EXTINF:-1 group-title="XXX",Nuart TV (18+)
+#EXTINF:-1 group-title="XXX" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/140.png" tvg-name="Nuart TV",Nuart TV (18+)
 #EXTGRP:XXX
 http://178.124.183.14:80/hls/CH_NYARTTV/variant.m3u8
-
-#EXTINF:-1 group-title="XXX",Nuart TV (18+)
-#EXTGRP:XXX
-http://cooltv.dyndns.tv:8200/udp/239.255.2.246:1234
 
 #EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/D62Pi3e.png",NYX Media 1 (18+)
 #EXTGRP:XXX
@@ -475,21 +340,9 @@ https://cdn1.ibizastream.biz:441/free/Stream2/chunks.m3u8
 #EXTGRP:XXX
 https://5a2a51fc4cfde.streamlock.net/free/_definst_/Stream2/chunklist.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 group-title="XXX" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/107.png" tvg-name="O-la-la",O-la-la (18+)
-#EXTGRP:XXX
-http://95.191.235.160:1234/udp/225.54.23.160:5000
-
 #EXTINF:-1 group-title="XXX" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/107.png" tvg-name="O-la-la",O-La-La (18+)
 #EXTGRP:XXX
 http://217.25.216.4:8085/udp/238.2.5.209:1234
-
-#EXTINF:-1 group-title="XXX" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/107.png" tvg-name="O-la-la",O-la-la (18+)
-#EXTGRP:XXX
-http://92.124.129.203:1234/udp/225.54.23.160:5000
-
-#EXTINF:-1 group-title="XXX" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/107.png" tvg-name="O-la-la",O-la-la (18+)
-#EXTGRP:XXX
-http://iptvtool.es:9977/Elisabetpoligono//EJYVatNwQQ/100265
 
 #EXTINF:-1 group-title="XXX",OX-AX HD (18+)
 #EXTGRP:XXX
@@ -566,10 +419,6 @@ http://95.67.12.126:9135
 #EXTINF:-1 group-title="XXX" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/105.png" tvg-name="Private TV",Private TV (18+)
 #EXTGRP:XXX
 http://46.214.187.66:6464/play/a04e/index.m3u8
-
-#EXTINF:-1 group-title="XXX" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/105.png" tvg-name="Private TV",Private TV (18+)
-#EXTGRP:XXX
-http://iptvtool.es:9977/Elisabetpoligono//EJYVatNwQQ/100261
 
 #EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/D0WeMID.png",Private TV HD (18+)
 #EXTGRP:XXX
@@ -807,15 +656,15 @@ http://iptvtool.es:9977/Elisabetpoligono//EJYVatNwQQ/100263
 #EXTGRP:XXX
 http://iptvtool.es:9977/Elisabetpoligono//EJYVatNwQQ/100290
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JbXaM3b.png" group-title="XXX",Super One HD (18+)
+#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/JbXaM3b.png",Super One HD (18+)
 #EXTGRP:XXX
 http://188.35.9.5:10007/stolen/246r/parasite.install
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JbXaM3b.png" group-title="XXX",Super One HD (18+)
+#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/JbXaM3b.png",Super One HD (18+)
 #EXTGRP:XXX
 http://iptvtool.es:9977/Elisabetpoligono//EJYVatNwQQ/100264
 
-#EXTINF:-1 group-title="XXX",Super One HD (18+)
+#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/JbXaM3b.png",Super One HD (18+)
 #EXTGRP:XXX
 http://iptvtool.es:9977/Elisabetpoligono//EJYVatNwQQ/100292
 
@@ -877,23 +726,11 @@ http://188.35.9.5:10007/stolen/214g/parasite.install
 
 #EXTINF:-1 group-title="XXX" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/104.png" tvg-name="Русская ночь",Русская ночь (18+)
 #EXTGRP:XXX
-http://46.183.135.190:999/udp/239.191.254.13:15285
-
-#EXTINF:-1 group-title="XXX" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/104.png" tvg-name="Русская ночь",Русская ночь (18+)
-#EXTGRP:XXX
 http://178.124.183.5/hls/F7UMYQMCGB/variant.m3u8?version=2
 
 #EXTINF:-1 group-title="XXX" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/104.png" tvg-name="Русская ночь",Русская ночь (18+)
 #EXTGRP:XXX
-http://46.32.68.167/s/live/708/86.169.51.136/1/0.m3u8
-
-#EXTINF:-1 group-title="XXX" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/104.png" tvg-name="Русская ночь",Русская ночь (18+)
-#EXTGRP:XXX
 http://178.124.183.14:80/hls/F7UMYQMCGB/variant.m3u8
-
-#EXTINF:-1 group-title="XXX" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/104.png" tvg-name="Русская ночь",Русская ночь (18+)
-#EXTGRP:XXX
-http://79.137.255.95:20000/udp/230.3.4.110:5678
 
 #EXTINF:-1 group-title="XXX" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/104.png" tvg-name="Русская ночь",Русская ночь (18+)
 #EXTGRP:XXX
