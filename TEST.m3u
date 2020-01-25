@@ -17,16 +17,16 @@ http://5964ed3e60741.streamlock.net:1935/2001edge/2001MS_RTSP.stream/playlist.m3
 #EXTINF:-1 group-title="XXX", Alba XXX 1 (18+)
 #EXTGRP:XXX
 http://iptvtool.es:9977/Elisabetpoligono//EJYVatNwQQ/100253
-#EXTINF:-1 group-title="XXX",AST TV 1 (18+)
+#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/zX6fCMT.png",AST TV 1 (18+)
 #EXTGRP:XXX
 https://www.ast.tv/stream/1/cellular.m3u8
-#EXTINF:-1 group-title="XXX",AST TV 1 HD (18+)
+#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/zX6fCMT.png",AST TV 1 HD (18+)
 #EXTGRP:XXX
 https://www.ast.tv/stream/1/ultra.m3u8
-#EXTINF:-1 group-title="XXX",AST TV 2 (18+)
+#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/zX6fCMT.png",AST TV 2 (18+)
 #EXTGRP:XXX
 https://www.ast.tv/stream/2/cellular.m3u8
-#EXTINF:-1 group-title="XXX",AST TV 2 HD (18+)
+#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/zX6fCMT.png",AST TV 2 HD (18+)
 #EXTGRP:XXX
 https://www.ast.tv/stream/2/ultra.m3u8
 #EXTINF:-1 group-title="XXX" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/179.png" tvg-name="Babes TV",Babes TV (18+)
@@ -209,7 +209,7 @@ http://217.12.74.23:81/udp/235.10.10.97:1234
 #EXTINF:-1 group-title="XXX" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/150.png" tvg-name="Hustler HD Europe",Hustler HD Europe (18+)
 #EXTGRP:XXX
 http://vtpi.ydns.eu:80/O7zNSC4ihE/2nfoJ4qWa2/357
-#EXTINF:-1 group-title="XXX" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/185.png" tvg-name="HOT",HOT (18+)
+#EXTINF:-1 group-title="XXX" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/185.png" tvg-name="HOT",HOT TV (18+)
 #EXTGRP:XXX
 http://86.243.94.135:8000/play/a0cw/index.m3u8
 #EXTINF:-1 group-title="XXX" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/197.png" tvg-name="HotClub 2 FHD Adult",HotClub 2 FHD Adult (18+)
@@ -344,22 +344,22 @@ http://46.214.187.66:6464/play/a04e/index.m3u8
 #EXTINF:-1 group-title="XXX" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/105.png" tvg-name="Private TV",Private TV (18+)
 #EXTGRP:XXX
 http://iptvtool.es:9977/Elisabetpoligono//EJYVatNwQQ/100261
-#EXTINF:-1 group-title="XXX",Private TV HD (18+)
+#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/D0WeMID.png",Private TV HD (18+)
 #EXTGRP:XXX
 http://9cc8074b.melpakomn.ru/iptv/ZGUA5RKA46DPDQ/243/index.m3u8
-#EXTINF:-1 group-title="XXX",Private TV HD (18+)
+#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/D0WeMID.png",Private TV HD (18+)
 #EXTGRP:XXX
 http://194.28.155.68:81/udp/225.0.55.230:1234
-#EXTINF:-1 group-title="XXX",Private TV HD (18+)
+#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/D0WeMID.png",Private TV HD (18+)
 #EXTGRP:XXX
 http://188.35.9.5:10005/stolen/153a/imposter.rar
-#EXTINF:-1 group-title="XXX",Private TV HD (18+)
+#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/D0WeMID.png",Private TV HD (18+)
 #EXTGRP:XXX
 http://cooltv.dyndns.tv:8200/udp/239.255.1.206:1234
-#EXTINF:-1 group-title="XXX",Prive (18+)
+#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/MBGOQkC.png",Prive (18+)
 #EXTGRP:XXX
 http://cooltv.dyndns.tv:8200/udp/239.255.3.248:1234
-#EXTINF:-1 group-title="XXX",Prive (18+)
+#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/MBGOQkC.png",Prive (18+)
 #EXTGRP:XXX
 http://iptvtool.es:9977/Elisabetpoligono//EJYVatNwQQ/100256
 #EXTINF:-1 group-title="XXX" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/144.png" tvg-name="Redlight HD",Redlight HD (18+)
@@ -377,34 +377,34 @@ http://iptvtool.es:9977/Elisabetpoligono//EJYVatNwQQ/100287
 #EXTINF:-1 group-title="XXX",RedTraffic Anal (18+)
 #EXTGRP:XXX
 http://cdn.adultiptv.net/anal.m3u8
-#EXTINF:-1 group-title="XXX",RedTraffic Big Ass (18+)
+#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/BMJDW7r.png" tvg-country="INT",RedTraffic Big Ass (18+)
 #EXTGRP:XXX
 http://cdn.adultiptv.net/bigass.m3u8
-#EXTINF:-1 group-title="XXX",RedTraffic Big Ass (18+)
+#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/BMJDW7r.png" tvg-country="INT",RedTraffic Big Ass (18+)
 #EXTGRP:XXX
 http://live.redtraffic.xyz/bigass.m3u8
-#EXTINF:-1 group-title="XXX",RedTraffic Big Dick (18+)
+#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/iNmHyo2.png" tvg-country="INT",RedTraffic Big Dick (18+)
 #EXTGRP:XXX
 http://cdn.adultiptv.net/bigdick.m3u8
-#EXTINF:-1 group-title="XXX",RedTraffic Big Dick (18+)
+#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/iNmHyo2.png" tvg-country="INT",RedTraffic Big Dick (18+)
 #EXTGRP:XXX
 http://live.redtraffic.xyz/bigdick.m3u8
-#EXTINF:-1 group-title="XXX",RedTraffic Big Tits (18+)
+#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/L0VcV7w.png" tvg-country="INT",RedTraffic Big Tits (18+)
 #EXTGRP:XXX
 http://cdn.adultiptv.net/bigtits.m3u8
-#EXTINF:-1 group-title="XXX",RedTraffic Big Tits (18+)
+#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/L0VcV7w.png" tvg-country="INT",RedTraffic Big Tits (18+)
 #EXTGRP:XXX
 http://live.redtraffic.xyz/bigtits.m3u8
-#EXTINF:-1 group-title="XXX",RedTraffic Big Tits HD (18+)
+#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/L0VcV7w.png" tvg-country="INT",RedTraffic Big Tits HD (18+)
 #EXTGRP:XXX
 http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/bigtits.m3u8
 #EXTINF:-1 group-title="XXX",RedTraffic Blonde (18+)
 #EXTGRP:XXX
 http://cdn.adultiptv.net/blonde.m3u8
-#EXTINF:-1 group-title="XXX",RedTraffic Blowjob (18+)
+#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/xfIelNY.png" tvg-country="INT",RedTraffic Blowjob (18+)
 #EXTGRP:XXX
 http://cdn.adultiptv.net/blowjob.m3u8
-#EXTINF:-1 group-title="XXX",RedTraffic Blowjob (18+)
+#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/xfIelNY.png" tvg-country="INT",RedTraffic Blowjob (18+)
 #EXTGRP:XXX
 http://live.redtraffic.xyz/blowjob.m3u8
 #EXTINF:-1 group-title="XXX",RedTraffic Brunette (18+)
@@ -413,16 +413,16 @@ http://cdn.adultiptv.net/brunette.m3u8
 #EXTINF:-1 group-title="XXX",RedTraffic Compilation (18+)
 #EXTGRP:XXX
 http://cdn.adultiptv.net/compilation.m3u8
-#EXTINF:-1 group-title="XXX",RedTraffic Cuckold (18+)
+#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/rzZYfkN.png" tvg-country="INT",RedTraffic Cuckold (18+)
 #EXTGRP:XXX
 http://cdn.adultiptv.net/cuckold.m3u8
-#EXTINF:-1 group-title="XXX",RedTraffic Cuckold (18+)
+#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/rzZYfkN.png" tvg-country="INT",RedTraffic Cuckold (18+)
 #EXTGRP:XXX
 http://live.redtraffic.xyz/cuckold.m3u8
-#EXTINF:-1 group-title="XXX",RedTraffic Fetish (18+)
+#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/bp1qW74.png" tvg-country="INT",RedTraffic Fetish (18+)
 #EXTGRP:XXX
 http://cdn.adultiptv.net/fetish.m3u8
-#EXTINF:-1 group-title="XXX",RedTraffic Fetish (18+)
+#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/bp1qW74.png" tvg-country="INT",RedTraffic Fetish (18+)
 #EXTGRP:XXX
 http://live.redtraffic.xyz/fetish.m3u8
 #EXTINF:-1 group-title="XXX",RedTraffic Gangbang (18+)
@@ -431,79 +431,79 @@ http://cdn.adultiptv.net/gangbang.m3u8
 #EXTINF:-1 group-title="XXX",RedTraffic Gay (18+)
 #EXTGRP:XXX
 http://cdn.adultiptv.net/gay.m3u8
-#EXTINF:-1 group-title="XXX",RedTraffic Hardcore (18+)
+#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/6LqaFuD.png" tvg-country="INT",RedTraffic Hardcore (18+)
 #EXTGRP:XXX
 http://cdn.adultiptv.net/hardcore.m3u8
-#EXTINF:-1 group-title="XXX",RedTraffic Hardcore (18+)
+#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/6LqaFuD.png" tvg-country="INT",RedTraffic Hardcore (18+)
 #EXTGRP:XXX
 http://live.redtraffic.xyz/hardcore.m3u8
-#EXTINF:-1 group-title="XXX",RedTraffic Hardcore HD (18+)
+#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/6LqaFuD.png" tvg-country="INT",RedTraffic Hardcore HD (18+)
 #EXTGRP:XXX
 http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/hardcore.m3u8
-#EXTINF:-1 group-title="XXX",RedTraffic Interracial (18+)
+#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/t3LXxuv.png" tvg-country="INT",RedTraffic Interracial (18+)
 #EXTGRP:XXX
 http://cdn.adultiptv.net/interracial.m3u8
-#EXTINF:-1 group-title="XXX",RedTraffic Interracial (18+)
+#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/t3LXxuv.png" tvg-country="INT",RedTraffic Interracial (18+)
 #EXTGRP:XXX
 http://live.redtraffic.xyz/interracial.m3u8
-#EXTINF:-1 group-title="XXX",RedTraffic Latina (18+)
+#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/uosNpWk.png" tvg-country="INT",RedTraffic Latina (18+)
 #EXTGRP:XXX
 http://cdn.adultiptv.net/latina.m3u8
-#EXTINF:-1 group-title="XXX",RedTraffic Latina (18+)
+#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/uosNpWk.png" tvg-country="INT",RedTraffic Latina (18+)
 #EXTGRP:XXX
 http://live.redtraffic.xyz/latina.m3u8
-#EXTINF:-1 group-title="XXX",RedTraffic Latina HD (18+)
+#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/uosNpWk.png" tvg-country="INT",RedTraffic Latina HD (18+)
 #EXTGRP:XXX
 http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/latina.m3u8
-#EXTINF:-1 group-title="XXX",RedTraffic Lesbian (18+)
+#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/6dgyIz0.png" tvg-country="INT",RedTraffic Lesbian (18+)
 #EXTGRP:XXX
 http://cdn.adultiptv.net/lesbian.m3u8
-#EXTINF:-1 group-title="XXX",RedTraffic Lesbian (18+)
+#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/6dgyIz0.png" tvg-country="INT",RedTraffic Lesbian (18+)
 #EXTGRP:XXX
 http://live.redtraffic.xyz/lesbian.m3u8
 #EXTINF:-1 group-title="XXX",RedTraffic Livecams (18+)
 #EXTGRP:XXX
 http://cdn.adultiptv.net/livecams.m3u8
-#EXTINF:-1 group-title="XXX",RedTraffic MILF (18+)
+#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/acW4Fe9.png" tvg-country="INT",RedTraffic MILF (18+)
 #EXTGRP:XXX
 http://cdn.adultiptv.net/milf.m3u8
-#EXTINF:-1 group-title="XXX",RedTraffic MILF (18+)
+#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/acW4Fe9.png" tvg-country="INT",RedTraffic MILF (18+)
 #EXTGRP:XXX
 http://live.redtraffic.xyz/milf.m3u8
-#EXTINF:-1 group-title="XXX",RedTraffic POV (18+)
+#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/EvqysKS.png" tvg-country="INT",RedTraffic POV (18+)
 #EXTGRP:XXX
 http://cdn.adultiptv.net/pov.m3u8
-#EXTINF:-1 group-title="XXX",RedTraffic POV (18+)
+#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/EvqysKS.png" tvg-country="INT",RedTraffic POV (18+)
 #EXTGRP:XXX
 http://live.redtraffic.xyz/pov.m3u8
-#EXTINF:-1 group-title="XXX",RedTraffic Pornstar (18+)
+#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/S2kSwfv.png" tvg-country="INT",RedTraffic Pornstar (18+)
 #EXTGRP:XXX
 http://cdn.adultiptv.net/pornstar.m3u8
-#EXTINF:-1 group-title="XXX",RedTraffic Pornstar (18+)
+#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/S2kSwfv.png" tvg-country="INT",RedTraffic Pornstar (18+)
 #EXTGRP:XXX
 http://live.redtraffic.xyz/pornstar.m3u8
-#EXTINF:-1 group-title="XXX",RedTraffic Pornstar HD (18+)
+#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/S2kSwfv.png" tvg-country="INT",RedTraffic Pornstar HD (18+)
 #EXTGRP:XXX
 http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/pornstar.m3u8
 #EXTINF:-1 group-title="XXX",RedTraffic Rough (18+)
 #EXTGRP:XXX
 http://cdn.adultiptv.net/rough.m3u8
-#EXTINF:-1 group-title="XXX",RedTraffic Russian (18+)
+#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/5WSwI1A.png" tvg-country="INT",RedTraffic Russian (18+)
 #EXTGRP:XXX
 http://cdn.adultiptv.net/russian.m3u8
-#EXTINF:-1 group-title="XXX",RedTraffic Russian (18+)
+#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/5WSwI1A.png" tvg-country="INT",RedTraffic Russian (18+)
 #EXTGRP:XXX
 http://live.redtraffic.xyz/russian.m3u8
-#EXTINF:-1 group-title="XXX",RedTraffic Teen (18+)
+#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/3nOaNzu.png" tvg-country="INT",RedTraffic Teen (18+)
 #EXTGRP:XXX
 http://cdn.adultiptv.net/teen.m3u8
-#EXTINF:-1 group-title="XXX",RedTraffic Teen (18+)
+#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/3nOaNzu.png" tvg-country="INT",RedTraffic Teen (18+)
 #EXTGRP:XXX
 http://live.redtraffic.xyz/teen.m3u8
-#EXTINF:-1 group-title="XXX",RedTraffic Threesome (18+)
+#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/k85bqov.png" tvg-country="INT",RedTraffic Threesome (18+)
 #EXTGRP:XXX
 http://cdn.adultiptv.net/threesome.m3u8
-#EXTINF:-1 group-title="XXX",RedTraffic Threesome (18+)
+#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/k85bqov.png" tvg-country="INT",RedTraffic Threesome (18+)
 #EXTGRP:XXX
 http://live.redtraffic.xyz/threesome.m3u8
 #EXTINF:-1 group-title="XXX",Retro X (18+)
@@ -527,10 +527,10 @@ https://www.ast.tv/stream/1/high.m3u8
 #EXTINF:-1 group-title="XXX",Shemale Tube TV 2 (18+)
 #EXTGRP:XXX
 https://www.ast.tv/stream/2/high.m3u8
-#EXTINF:-1 group-title="XXX",Super One HD (18+)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JbXaM3b.png" group-title="XXX",Super One HD (18+)
 #EXTGRP:XXX
 http://188.35.9.5:10007/stolen/246r/parasite.install
-#EXTINF:-1 group-title="XXX",Super One HD (18+)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JbXaM3b.png" group-title="XXX",Super One HD (18+)
 #EXTGRP:XXX
 http://iptvtool.es:9977/Elisabetpoligono//EJYVatNwQQ/100264
 #EXTINF:-1 group-title="XXX",Super One HD (18+)
