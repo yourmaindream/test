@@ -20,7 +20,7 @@ http://5964ed3e60741.streamlock.net:1935/2001edge/2001DR_RTSP.stream/playlist.m3
 #EXTGRP:XXX
 http://5964ed3e60741.streamlock.net:1935/2001edge/2001MS_RTSP.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/mR1I8hE.png"",A3Bikini TV
+#EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/mR1I8hE.png",A3Bikini TV  (18+)
 #EXTGRP:XXX
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8?fluxustv.m3u8
 
