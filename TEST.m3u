@@ -712,6 +712,11 @@ http://5b33420f79f5f.streamlock.net:1935/freecamssecure/103/playlist.m3u8
 #EXTGRP:XXX
 http://5b33420f79f5f.streamlock.net:1935/freecamssecure/104/playlist.m3u8
 
+
+http://5b33420f79f5f.streamlock.net:1935/freecamssecure/105/playlist.m3u8
+http://5b33420f79f5f.streamlock.net:1935/freecamssecure/106/playlist.m3u8
+
+
 #EXTINF:-1 group-title="XXX",Xpanded TV (18+)
 #EXTGRP:XXX
 https://vod2t.xxxpanded.com/x3tv/index_wlan.m3u8
