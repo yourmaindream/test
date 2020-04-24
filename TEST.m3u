@@ -712,8 +712,12 @@ http://5b33420f79f5f.streamlock.net:1935/freecamssecure/103/playlist.m3u8
 #EXTGRP:XXX
 http://5b33420f79f5f.streamlock.net:1935/freecamssecure/104/playlist.m3u8
 
-
+#EXTINF:-1 group-title="XXX",Webcam 3 (18+)
+#EXTGRP:XXX
 http://5b33420f79f5f.streamlock.net:1935/freecamssecure/105/playlist.m3u8
+
+#EXTINF:-1 group-title="XXX",Webcam 4 (18+)
+#EXTGRP:XXX
 http://5b33420f79f5f.streamlock.net:1935/freecamssecure/106/playlist.m3u8
 
 
