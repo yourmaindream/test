@@ -1145,10 +1145,6 @@ http://nvid101.cdnii.com/2021/1/20211195-720p.mp4
 
 
 
-#EXTM3U url-tvg="http://epg.it999.ru/epg.xml.gz"
-#EXTM3U url-tvg="http://www.teleguide.info/download/new3/xmltv.xml.gz"
-#EXTINF:-1,Плейлист от MAV.
-http://195.2.74.99/channel/n6c785a9a/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
 #EXTINF:-1 ,XXX: Dorcel XXX HD
 http://movi2.xyz:8080/live/Bilo80/jKWNsCkpnI/15517.ts
 #EXTINF:-1 ,XXX_By : bestfreeiptvdaily.blogspot.com
@@ -1659,7 +1655,7 @@ https://ovhv47.twincdn.com/videos/42/42050/42050_720p.mp4
 
 
 
-#EXTM3U
+
 #EXTINF:-1,PORNBOX: ASMR FANTASY
 http://thehive.tv:25461/brogandog/autumn36/1942
 #EXTINF:-1,PORNBOX: BABES
@@ -1758,7 +1754,7 @@ http://thehive.tv:25461/brogandog/autumn36/2027
 
 
 
-#EXTM3U
+
 
 http://novo1.xyz:8080/irmao777/varandas777/69763
 #EXTINF:-1 tvg-name="XXX: EROTIK 15
