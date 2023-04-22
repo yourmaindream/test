@@ -5,17 +5,17 @@
 http://v2.catcast.tv/content/40381/index.m3u8
 #EXTINF:-1 group-title=\"18+\",Rouge TV 720p
 http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
-#EXTINF:-1,xxx HD
+#EXTINF:-1,xxx HD 1
 http://lmtv.me/3Xa6ZR/7yzVQY/90306
-#EXTINF:-1,xxx
+#EXTINF:-1,xxx 2
 http://lmtv.me/3Xa6ZR/7yzVQY/90307
-#EXTINF:-1,xxx HD
+#EXTINF:-1,xxx HD 3
 http://lmtv.me/3Xa6ZR/7yzVQY/90308
-#EXTINF:-1,xxx
+#EXTINF:-1,xxx 4
 http://lmtv.me/3Xa6ZR/7yzVQY/90309
-#EXTINF:-1,xxx HD
+#EXTINF:-1,xxx HD 5
 http://lmtv.me/3Xa6ZR/7yzVQY/90437
-#EXTINF:-1,xxx HD
+#EXTINF:-1,xxx HD 6
 http://lmtv.me/3Xa6ZR/7yzVQY/90438
 #EXTINF:0,TEST 3 (18+)
 #EXTGRP:unsorted
