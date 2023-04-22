@@ -1,51 +1,57 @@
 #EXTM3U
-#EXTINF:0,Eropulse TV (18+)
+#EXTINF:-1,Eropulse TV (18+)
 #EXTGRP:unsorted
 http://api.alpaca.t62a.com/hls/9108/stream0.m3u8?checkedby:@SantaSantimov777
-#EXTINF:0,PassionXXX MilfShake (18+)
+#EXTINF:-1,PassionXXX MilfShake (18+)
 #EXTGRP:unsorted
 http://95.87.227.29:8080/PASSIONXXX/playlist.m3u8
-#EXTINF:0,XXX MULT
+#EXTINF:-1,XXX MULT
 #EXTGRP:unsorted
 http://144.76.58.245:2307/cartoon/index.m3u8
-#EXTINF:0,VISIT-X TV HD (18+)
+#EXTINF:-1,VISIT-X TV HD (18+)
 #EXTGRP:unsorted
 http://stream.visit-x.tv:1935/vxtv/live/playlist.m3u8
-#EXTINF:0,1
+#EXTINF:-1, 1
 #EXTGRP:18+
 http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
-#EXTINF:0,2
+#EXTINF:-1, 2
 #EXTGRP:18+
 http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
-#EXTINF:0,3
+#EXTINF:-1, 3
 #EXTGRP:18+
 http://194.116.150.47:1935/vxtv/live_720p/playlist.m3u8
-#EXTINF:-1, group-title=\"18+\",Babestation
+#EXTINF:-1, Babestation
+#EXTGRP:18+
 http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
-#EXTINF:-1, group-title=\"18+\",VISIT-X
+#EXTINF:-1, VISIT-X
+#EXTGRP:18+
 http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
-#EXTINF:-1, group-title=\"18+\",VISIT-X r
+#EXTINF:-1, VISIT-X r
+#EXTGRP:18+
 http://194.116.150.47:1935/vxtv/live_720p/playlist.m3u8
-#EXTINF:-1, group-title=\"18+\",Hustler HD Europe
+#EXTINF:-1, Hustler HD Europe
+#EXTGRP:18+
 http://78.83.191.18:8000/play/a078
-#EXTINF:-1, group-title=\"18+\",KINO 18+
+#EXTINF:-1, KINO 18+
+#EXTGRP:18+
 https://autopilot.catcast.tv/content/40381/index.m3u8?cur=tva.org.ua&key=3i277
-#EXTINF:0,Кино 18+
+#EXTINF:-1, Кино 18+
 #EXTGRP:unsorted
 http://v2.catcast.tv/content/40381/index.m3u8
-#EXTINF:-1, group-title=\"18+\",Rouge TV 720p
+#EXTINF:-1, Rouge TV 720p
+#EXTGRP:18+
 http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
-#EXTINF:-1,xxx HD
+#EXTINF:-1, xxx HD
 http://lmtv.me/3Xa6ZR/7yzVQY/90306
-#EXTINF:-1,xxx
+#EXTINF:-1, xxx
 http://lmtv.me/3Xa6ZR/7yzVQY/90307
-#EXTINF:-1,xxx HD
+#EXTINF:-1, xxx HD
 http://lmtv.me/3Xa6ZR/7yzVQY/90308
-#EXTINF:-1,xxx
+#EXTINF:-1, xxx
 http://lmtv.me/3Xa6ZR/7yzVQY/90309
-#EXTINF:-1,xxx HD
+#EXTINF:-1, xxx HD
 http://lmtv.me/3Xa6ZR/7yzVQY/90437
-#EXTINF:-1,xxx HD
+#EXTINF:-1, xxx HD
 http://lmtv.me/3Xa6ZR/7yzVQY/90438
 #EXTINF:0,TEST 3 (18+)
 #EXTGRP:unsorted
