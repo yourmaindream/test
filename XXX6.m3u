@@ -80,15 +80,15 @@ http://fdddf454c5241c548s7d87saopsjksdjdf265621d.rossteleccom.net/iptv/QUB8WSBWD
 #EXTGRP:18+
 http://fdddf454c5241c548s7d87saopsjksdjdf265621d.rossteleccom.net/iptv/QUB8WSBWDLLNU5/6174/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://webarmen.com/my/iptv/uploads/icon/108.png" tvg-name="Barely Legal TV", Barely Legal TV (1)
+#EXTINF:-1, Barely Legal TV (1)
 #EXTGRP:18+
 http://fdddf454c5241c548s7d87saopsjksdjdf265621d.rossteleccom.net/iptv/QUB8WSBWDLLNU5/871/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://webarmen.com/my/iptv/uploads/icon/108.png" tvg-name="Barely Legal TV", Barely Legal TV (2)
+#EXTINF:-1, Barely Legal TV (2)
 #EXTGRP:18+
 http://fdddf454c5241c548s7d87saopsjksdjdf265621d.rossteleccom.net/iptv/QUB8WSBWDLLNU5/12165/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://webarmen.com/my/iptv/uploads/icon/108.png" tvg-name="Barely Legal TV", Barely Legal TV (3)
+#EXTINF:-1, Barely Legal TV (3)
 #EXTGRP:18+
 http://source-streams.com:8081/ahmet.berberler/18112019/51
 
