@@ -1,21 +1,172 @@
 #EXTM3U
 
-#EXTINF:-1 , 111
-#EXTGRP:18+
-http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
-#EXTINF:-1 , 2222
-#EXTGRP:18+
-http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
-#EXTINF:-1 , 3333
-#EXTGRP:18+
-http://194.116.150.47:1935/vxtv/live_720p/playlist.m3u8
-#EXTINF:-1 group-title=\"18+\",Babestation
-http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
-#EXTINF:-1 group-title=\"18+\",VISIT-X
-http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
-#EXTINF:-1 group-title=\"18+\",VISIT-X r
-http://194.116.150.47:1935/vxtv/live_720p/playlist.m3u8
-#EXTINF:-1 group-title=\"18+\",Hustler HD Europe
-http://78.83.191.18:8000/play/a078
-#EXTINF:-1 group-title=\"18+\",KINO 18+
-https://autopilot.catcast.tv/content/40381/index.m3u8?cur=tva.org.ua&key=3i277
+#EXTINF:0,Кино 18+
+#EXTGRP:unsorted
+http://v2.catcast.tv/content/40381/index.m3u8
+#EXTINF:-1 group-title=\"18+\",Rouge TV 720p
+http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
+#EXTINF:-1,xxx HD
+http://lmtv.me/3Xa6ZR/7yzVQY/90306
+#EXTINF:-1,xxx
+http://lmtv.me/3Xa6ZR/7yzVQY/90307
+#EXTINF:-1,xxx HD
+http://lmtv.me/3Xa6ZR/7yzVQY/90308
+#EXTINF:-1,xxx
+http://lmtv.me/3Xa6ZR/7yzVQY/90309
+#EXTINF:-1,xxx HD
+http://lmtv.me/3Xa6ZR/7yzVQY/90437
+#EXTINF:-1,xxx HD
+http://lmtv.me/3Xa6ZR/7yzVQY/90438
+#EXTINF:0,TEST 3 (18+)
+#EXTGRP:unsorted
+https://vod1.laki.eu/erox/index.m3u8
+#EXTINF:0,TEST 4 (18+)
+#EXTGRP:unsorted
+http://84.54.131.97:14005
+#EXTINF:0,TEST 5
+#EXTGRP:unsorted
+http://190.61.102.67:8000/play/a02h
+#EXTINF:0,TEST 6
+#EXTGRP:unsorted
+http://46.4.102.86:8080/cherrypimps/index.m3u8
+#EXTINF:0,TEST 10
+#EXTGRP:unsorted
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+#EXTINF:0,TEST 13
+#EXTGRP:unsorted
+http://95.87.227.29:8080/CENTOXCENTO/index.m3u8
+#EXTINF:0,TEST 14
+#EXTGRP:unsorted
+http://95.87.227.29:8080/PASSIONXXX/index.m3u8
+#EXTINF:0,TEST 16
+#EXTGRP:unsorted
+http://85.11.144.8:5666/HustlerTV?token=test
+#EXTINF:0,TEST 18
+#EXTGRP:unsorted
+http://84.54.131.97:14001
+#EXTINF:0,TEST 19
+#EXTGRP:unsorted
+http://51.159.102.100/PenthouseGold/index.m3u8
+#EXTINF:0,TEST 20
+#EXTGRP:unsorted
+http://162.19.247.76:22222/live/caihong2/index.m3u8
+#EXTINF:0,XXX MULT
+#EXTGRP:unsorted
+http://144.76.58.245:2307/cartoon/index.m3u8
+#EXTINF:0,Playboy Latino FHD
+#EXTGRP:unsorted
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35326
+#EXTINF:0,Playboy TV Europe HD
+#EXTGRP:unsorted
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35328
+#EXTINF:0,Balkan Erotic HD
+#EXTGRP:unsorted
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35344
+#EXTINF:0,Barely
+#EXTGRP:unsorted
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35345
+#EXTINF:0,Blue Hustler
+#EXTGRP:unsorted
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35346
+#EXTINF:0,Cento X Cento
+#EXTGRP:unsorted
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35347
+#EXTINF:0,Erotic1 6 SD
+#EXTGRP:unsorted
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35349
+#EXTINF:0,Erotic4 6 SD
+#EXTGRP:unsorted
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35350
+#EXTINF:0,Hustler TV SD
+#EXTGRP:unsorted
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35353
+#EXTINF:0,Passie XXX
+#EXTGRP:unsorted
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35359
+#EXTINF:0,PentHouse HD
+#EXTGRP:unsorted
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/44268
+#EXTINF:0,PentHouse 2 SD
+#EXTGRP:unsorted
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35362
+#EXTINF:0,Pinko 1 FHD
+#EXTGRP:unsorted
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35365
+#EXTINF:0,Pinko 10 SD
+#EXTGRP:unsorted
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35366
+#EXTINF:0,Pinko 3 SD
+#EXTGRP:unsorted
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35367
+#EXTINF:0,Pinko 4 SD
+#EXTGRP:unsorted
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35368
+#EXTINF:0,Pinko 5 SD
+#EXTGRP:unsorted
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35369
+#EXTINF:0,Pinko 6 SD
+#EXTGRP:unsorted
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35370
+#EXTINF:0,Pinko 8 SD
+#EXTGRP:unsorted
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35371
+#EXTINF:0,Private 10 SD
+#EXTGRP:unsorted
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35375
+#EXTINF:0,Private 11 SD
+#EXTGRP:unsorted
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35376
+#EXTINF:0,Private 12 SD
+#EXTGRP:unsorted
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35377
+#EXTINF:0,Private 13 SD
+#EXTGRP:unsorted
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35378
+#EXTINF:0,Private 14 SD
+#EXTGRP:unsorted
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35379
+#EXTINF:0,Private 2 SD
+#EXTGRP:unsorted
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35380
+#EXTINF:0,Private 3 SD
+#EXTGRP:unsorted
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35381
+#EXTINF:0,Private 4 SD
+#EXTGRP:unsorted
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35382
+#EXTINF:0,Private 5 SD
+#EXTGRP:unsorted
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35383
+#EXTINF:0,Private 6 SD
+#EXTGRP:unsorted
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35384
+#EXTINF:0,Private 7 SD
+#EXTGRP:unsorted
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35385
+#EXTINF:0,Private 8 SD
+#EXTGRP:unsorted
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35386
+#EXTINF:0,Private 9 SD
+#EXTGRP:unsorted
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35387
+#EXTINF:0,Reality Kings SD
+#EXTGRP:unsorted
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35390
+#EXTINF:0,Sextreme
+#EXTGRP:unsorted
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35398
+#EXTINF:0,Starz FHD
+#EXTGRP:unsorted
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35402
+#EXTINF:0,Venus TV SD
+#EXTGRP:unsorted
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35404
+#EXTINF:0,X 1 FHD
+#EXTGRP:unsorted
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35407
+#EXTINF:0,XXL HD
+#EXTGRP:unsorted
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35408
+#EXTINF:0,Русская ночь orig
+#EXTGRP:Взрослые
+http://fdddf454c5241c548s7d87saopsjksdjdf265621d.rossteleccom.net/iptv/QUB8WSBWDLLNU5/9344/index.m3u8
