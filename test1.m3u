@@ -1,10 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 ,#EXTGRP:18+
+#EXTINF:-1 , 111
+#EXTGRP:18+
 http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
-#EXTINF:-1 ,#EXTGRP:18+
+#EXTINF:-1 , 2222
+#EXTGRP:18+
 http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
-#EXTINF:-1 ,#EXTGRP:18+
+#EXTINF:-1 , 3333
+#EXTGRP:18+
 http://194.116.150.47:1935/vxtv/live_720p/playlist.m3u8
 #EXTINF:-1 group-title=\"18+\",Babestation
 http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
