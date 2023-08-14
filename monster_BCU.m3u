@@ -100,6 +100,19 @@ http://nl4.iptv.monster/play/7138/B65F2CDF7E31763/video.m3u8
 http://nl4.iptv.monster/play/7139/B65F2CDF7E31763/video.m3u8
 #EXTINF:-1 group-title="KINO-BCU",BCU Premiere Ultra 4K
 http://nl4.iptv.monster/play/7140/B65F2CDF7E31763/video.m3u8
+
+#EXTINF:-1 group-title="KINO-BCU",BCU test16
+http://nl4.iptv.monster/play/7141/B65F2CDF7E31763/video.m3u8
+#EXTINF:-1 group-title="KINO-BCU",BCU test17
+http://nl4.iptv.monster/play/7142/B65F2CDF7E31763/video.m3u8
+#EXTINF:-1 group-title="KINO-BCU",BCU test18
+http://nl4.iptv.monster/play/7143/B65F2CDF7E31763/video.m3u8
+#EXTINF:-1 group-title="KINO-BCU",BCU test19
+http://nl4.iptv.monster/play/7144/B65F2CDF7E31763/video.m3u8
+#EXTINF:-1 group-title="KINO-BCU",BCU test20
+http://nl4.iptv.monster/play/7145/B65F2CDF7E31763/video.m3u8
+
+
 #EXTINF:-1 group-title="KINO-BCU",Kinoshka Premiere HD
 http://nl4.iptv.monster/play/9990/B65F2CDF7E31763/video.m3u8
 
