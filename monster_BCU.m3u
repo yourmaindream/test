@@ -31,37 +31,96 @@ http://nl4.iptv.monster/play/7113/B65F2CDF7E31763/video.m3u8
 http://nl4.iptv.monster/play/7114/B65F2CDF7E31763/video.m3u8
 #EXTINF:-1 group-title="KINO-BCU",BCU Кинозал Premiere 3 HD
 http://nl4.iptv.monster/play/7115/B65F2CDF7E31763/video.m3u8
+
+
+#EXTINF:-1 group-title="KINO-BCU",BCU test1
+http://nl4.iptv.monster/play/7116/B65F2CDF7E31763/video.m3u8
+#EXTINF:-1 group-title="KINO-BCU",BCU test2
+http://nl4.iptv.monster/play/7117/B65F2CDF7E31763/video.m3u8
+#EXTINF:-1 group-title="KINO-BCU",BCU test3
+http://nl4.iptv.monster/play/7118/B65F2CDF7E31763/video.m3u8
+#EXTINF:-1 group-title="KINO-BCU",BCU test4
+http://nl4.iptv.monster/play/7119/B65F2CDF7E31763/video.m3u8
+
 #EXTINF:-1 group-title="KINO-BCU",BCU Ruserial HD
 http://nl4.iptv.monster/play/7119/B65F2CDF7E31763/video.m3u8
 #EXTINF:-1 group-title="KINO-BCU",BCU СССР HD
 http://nl4.iptv.monster/play/7120/B65F2CDF7E31763/video.m3u8
+
+#EXTINF:-1 group-title="KINO-BCU",BCU test5
+http://nl4.iptv.monster/play/7121/B65F2CDF7E31763/video.m3u8
+
 #EXTINF:-1 group-title="KINO-BCU",BCU CINEMA+ HD
 http://nl4.iptv.monster/play/7122/B65F2CDF7E31763/video.m3u8
 #EXTINF:-1 group-title="KINO-BCU",BCU STARS HD
 http://nl4.iptv.monster/play/7123/B65F2CDF7E31763/video.m3u8
+
+#EXTINF:-1 group-title="KINO-BCU",BCU test6
+http://nl4.iptv.monster/play/7124/B65F2CDF7E31763/video.m3u8
+
 #EXTINF:-1 group-title="KINO-BCU",BCU Ultra 4K
 http://nl4.iptv.monster/play/7125/B65F2CDF7E31763/video.m3u8
+
+#EXTINF:-1 group-title="KINO-BCU",BCU test7
+http://nl4.iptv.monster/play/7126/B65F2CDF7E31763/video.m3u8
+
 #EXTINF:-1 group-title="KINO-BCU",BCU СВАТЫ HD
 http://nl4.iptv.monster/play/7127/B65F2CDF7E31763/video.m3u8
 #EXTINF:-1 group-title="KINO-BCU",BCU Criminal HD
 http://nl4.iptv.monster/play/7128/B65F2CDF7E31763/video.m3u8
+
+
+
+#EXTINF:-1 group-title="KINO-BCU",BCU test8
+http://nl4.iptv.monster/play/7129/B65F2CDF7E31763/video.m3u8
+#EXTINF:-1 group-title="KINO-BCU",BCU test9
+http://nl4.iptv.monster/play/7130/B65F2CDF7E31763/video.m3u8
+#EXTINF:-1 group-title="KINO-BCU",BCU test10
+http://nl4.iptv.monster/play/7131/B65F2CDF7E31763/video.m3u8
+#EXTINF:-1 group-title="KINO-BCU",BCU test11
+http://nl4.iptv.monster/play/7132/B65F2CDF7E31763/video.m3u8
+#EXTINF:-1 group-title="KINO-BCU",BCU test12
+http://nl4.iptv.monster/play/7133/B65F2CDF7E31763/video.m3u8
+#EXTINF:-1 group-title="KINO-BCU",BCU test13
+http://nl4.iptv.monster/play/7134/B65F2CDF7E31763/video.m3u8
+#EXTINF:-1 group-title="KINO-BCU",BCU test14
+http://nl4.iptv.monster/play/7135/B65F2CDF7E31763/video.m3u8
+
+
+
 #EXTINF:-1 group-title="KINO-BCU",BCU Reality HD
 http://nl4.iptv.monster/play/7136/B65F2CDF7E31763/video.m3u8
 #EXTINF:-1 group-title="KINO-BCU",BCU Cosmo HD
 http://nl4.iptv.monster/play/7137/B65F2CDF7E31763/video.m3u8
+
+#EXTINF:-1 group-title="KINO-BCU",BCU test15
+http://nl4.iptv.monster/play/7138/B65F2CDF7E31763/video.m3u8
+
 #EXTINF:-1 group-title="KINO-BCU",BCU TruMotion HD
 http://nl4.iptv.monster/play/7139/B65F2CDF7E31763/video.m3u8
 #EXTINF:-1 group-title="KINO-BCU",BCU Premiere Ultra 4K
 http://nl4.iptv.monster/play/7140/B65F2CDF7E31763/video.m3u8
 #EXTINF:-1 group-title="KINO-BCU",Kinoshka Premiere HD
 http://nl4.iptv.monster/play/9990/B65F2CDF7E31763/video.m3u8
+
+#EXTINF:-1 group-title="KINO-BCU",Kinoshka test1
+http://nl4.iptv.monster/play/9991/B65F2CDF7E31763/video.m3u8
+
 #EXTINF:-1 group-title="KINO-BCU",Kinoshka Triller HD
 http://nl4.iptv.monster/play/9992/B65F2CDF7E31763/video.m3u8
+
+#EXTINF:-1 group-title="KINO-BCU",Kinoshka test2
+http://nl4.iptv.monster/play/9993/B65F2CDF7E31763/video.m3u8
+
 #EXTINF:-1 group-title="KINO-BCU",Kinoshka Comedy HD
 http://nl4.iptv.monster/play/9994/B65F2CDF7E31763/video.m3u8
 #EXTINF:-1 group-title="KINO-BCU",Kinoshka Russian HD
 http://nl4.iptv.monster/play/9995/B65F2CDF7E31763/video.m3u8
 #EXTINF:-1 group-title="KINO-BCU",Kinoshka Mystic HD
 http://nl4.iptv.monster/play/9996/B65F2CDF7E31763/video.m3u8
+
+#EXTINF:-1 group-title="KINO-BCU",Kinoshka test3
+http://nl4.iptv.monster/play/9997/B65F2CDF7E31763/video.m3u8
+
 #EXTINF:-1 group-title="KINO-BCU",Kinoshka Action HD
 http://nl4.iptv.monster/play/9998/B65F2CDF7E31763/video.m3u8
