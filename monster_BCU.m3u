@@ -1,22 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="KINO-BCU",BCU Action HD
-http://nl4.iptv.monster/play/7100/B65F2CDF7E31763/video.m3u8
-#EXTINF:-1 group-title="KINO-BCU",BCU Catastrophe HD
-http://nl4.iptv.monster/play/7101/B65F2CDF7E31763/video.m3u8
-#EXTINF:-1 group-title="KINO-BCU",BCU Cinema HD
-http://nl4.iptv.monster/play/7102/B65F2CDF7E31763/video.m3u8
-#EXTINF:-1 group-title="KINO-BCU",BCU Comedy HD
-http://nl4.iptv.monster/play/7103/B65F2CDF7E31763/video.m3u8
-#EXTINF:-1 group-title="KINO-BCU",BCU Fantastic HD
-http://nl4.iptv.monster/play/7104/B65F2CDF7E31763/video.m3u8
-#EXTINF:-1 group-title="KINO-BCU",BCU FilMystic HD
-http://nl4.iptv.monster/play/7105/B65F2CDF7E31763/video.m3u8
-#EXTINF:-1 group-title="KINO-BCU",BCU History HD
-http://nl4.iptv.monster/play/7106/B65F2CDF7E31763/video.m3u8
-#EXTINF:-1 group-title="KINO-BCU",BCU Kinorating HD
-http://nl4.iptv.monster/play/7107/B65F2CDF7E31763/video.m3u8
-#EXTINF:-1 group-title="KINO-BCU",BCU Marvel
-http://nl4.iptv.monster/play/7108/B65F2CDF7E31763/video.m3u8
+
 #EXTINF:-1 group-title="KINO-BCU",BCU Premiere HD
 http://nl4.iptv.monster/play/7109/B65F2CDF7E31763/video.m3u8
 #EXTINF:-1 group-title="KINO-BCU",BCU Romantic HD
