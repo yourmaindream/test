@@ -5160,10 +5160,6 @@ http://23.237.100.82:8000/PENTHOUSE/index.m3u8
 http://live.mycamtv.com/teen.m3u8
 #EXTINF:-1 ,Шелк ТВ HD (18+)
 http://live-1.otcnet.ru/shelkhdmts/index.m3u8
-#EXTINF:-1 ,WebCam: 2001LIVE MAIN STAGE
-http://206.212.248.20/live/wickeduk/asdfasdfasdf3/116425.m3u8
-#EXTINF:-1 ,WebCam: 2001LIVE DRESSING ROOM
-http://206.212.248.20/live/wickeduk/asdfasdfasdf3/116426.m3u8
 #EXTINF:-1 ,TEST 24
 http://91.221.201.2:7025/play/a001/index.m3u8
 #EXTINF:-1 ,TEST 23
