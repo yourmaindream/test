@@ -1,4 +1,4 @@
-#EXTM3U url-tvg=\"https://klimedia.space/epg.xml.gz\"
+#EXTM3U
 #EXTINF:0,Barely legal
 #EXTGRP:alensat.com
 http://cdn.klimedia.online/lb/Barelylegal/index.m3u8?token=klimedia.space:c2xrZGpmYXM5ZDhhc2o6c2xrZGpmYXM5ZDhhc2o=
